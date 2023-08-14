@@ -59,5 +59,10 @@ const jumpToYoutube = () => {
   flex-direction: column;
   gap: 10px;
   z-index: 9;
+
+  @media screen and (max-width: 600px) {
+    flex-direction: row;
+    right: 10px;
+  }
 }
 </style>
