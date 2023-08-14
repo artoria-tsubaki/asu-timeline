@@ -6,7 +6,7 @@
         ref="menuInputRef"
         v-model="searchMenu"
         value-key="path"
-        placeholder="search by keyword"
+        placeholder="search by keyword or date"
         :fetch-suggestions="searchMenuList"
         @select="handleClickMenu"
         @click.stop
@@ -17,7 +17,9 @@
           </el-icon>
         </template>
         <template #default="{ item }">
-          <span> {{ item.value }} </span>
+          <div class="search-item">
+            <span> {{ item.value }} </span>
+            <span class="date-text"> {{ item.date }} </span></div>
         </template>
       </el-autocomplete>
     </el-dialog>
@@ -32,8 +34,11 @@ import data from '@/assets/data.json'
 import SvgIcon from '@/components/SvgIcon/index.vue'
 import mittBus from '@/utils/mittBus'
 // const authStore = useAuthStore();
+console.log(data);
 const menuList = computed(() => data.events.map((item, index) => {
   item.value = item.text.headline
+  const { year, month, day } = item.start_date.data
+  item.date = `${year}/${month}/${day}`
   item.slide_index = index + 1
   return item
 }));
@@ -79,7 +84,7 @@ const closeSearch = () => {
 const filterNodeMethod = (queryString) => {
   return (restaurant) => {
     return (
-      restaurant.value.toLowerCase().indexOf(queryString.toLowerCase()) > -1
+      restaurant.value.toLowerCase().indexOf(queryString.toLowerCase()) > -1 || restaurant.date.toLowerCase().indexOf(queryString.toLowerCase()) > -1
     );
   };
 };
@@ -126,8 +131,16 @@ const handleClickMenu = (item) => {
     font-size: 16px;
   }
   span {
-    margin: 0 0 0 10px;
     font-size: 14px;
+  }
+}
+
+.search-item {
+  display: flex;
+  justify-content: space-between;
+
+  .date-text {
+    color: #ccc;
   }
 }
 </style>
