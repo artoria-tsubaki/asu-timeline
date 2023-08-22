@@ -19,7 +19,7 @@
     <el-tooltip
       class="box-item"
       effect="dark"
-      content="Search By Keyword"
+      :content="$t('home.search')"
       placement="left"
       :visible="visible"
     >

@@ -6,7 +6,7 @@
         ref="menuInputRef"
         v-model="searchMenu"
         value-key="path"
-        placeholder="search by keyword or date"
+        :placeholder="$t('home.search')"
         :fetch-suggestions="searchMenuList"
         @select="handleClickMenu"
         @click.stop

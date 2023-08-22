@@ -1,6 +1,6 @@
 <template>
   <Snslist />
-  <div id='timeline-embed' style="width: 100%; height: 100%;"></div>
+  <div id='timeline-embed' style="height: 100%;"></div>
 </template>
 
 <script setup>
@@ -10,14 +10,22 @@ import Snslist from './Snslist.vue';
 
 import data from '@/assets/data.json'
 import mittBus from '@/utils/mittBus';
+import { useI18n } from 'vue-i18n';
 
+const i18n = useI18n()
+const lang = i18n.locale.value
+
+const additionalOptions  = {
+  language: lang === 'zh' ? 'zh-cn' : lang,
+  initial_zoom: 4
+}
 
 onMounted(() => {
-  const timeline = new TL.Timeline('timeline-embed', data, { initial_zoom: 4 })
+  const timeline = new TL.Timeline('timeline-embed', data, additionalOptions)
   
-  // timeline.on('loaded', (e) => {
-  //   console.log(e);
-  // })
+  timeline.on('loaded', (e) => {
+    mittBus.emit('loaded')
+  })
   
   // timeline.on('change', (id) => {
   //   console.log(id);

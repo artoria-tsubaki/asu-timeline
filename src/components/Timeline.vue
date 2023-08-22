@@ -5,9 +5,15 @@
 <script setup>
 import { onMounted } from 'vue';
 import example from '@/assets/example.json'
+import { useI18n } from 'vue-i18n';
+
+const i18n = useI18n()
 
 onMounted(() => {
-  const timeline = new TL.Timeline('timeline-embed', example)
+  const additionalOptions  = {
+    language: i18n.locale.value
+  }
+  const timeline = new TL.Timeline('timeline-embed', example, additionalOptions)
 })
 </script>
 

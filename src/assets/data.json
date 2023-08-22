@@ -2,18 +2,19 @@
   "title": {
     "media": {
       "url": "https://sinsekaistudio.jp/cms/wp-content/uploads/2021/11/asu_main_pc.jpg",
-      "caption": "character design: 米山舞",
+      "caption": "character design: <a href=\"https://twitter.com/yoneyamai\" target=\"_blank\">米山舞</a>",
       "credit": "明透/ASU(2021.8.23 ~ )"
     },
     "text": {
       "headline": "TIMELINE OF ASU ACTIVITIES",
-      "text": "<p>神椿とはもうひとつの世界「深脊界」に、突如現れた次世代型バーチャルシンガー「明透」。</p><p>天性のリズム感と予測不能な歌声。<p></p>いたずらに空想し、考えるよりも直感で行動してしまう天真爛漫な女の子。</p>"
+      "text": "<p>神椿とはもうひとつの世界「深脊界」に、突如現れた次世代型バーチャルシンガー「明透」。</p><p>天性のリズム感と予測不能な歌声。<p></p>いたずらに空想し、考えるよりも直感で行動してしまう天真爛漫な女の子。</p><p style='text-align: right'><a href='https://sinsekaistudio.jp/artist/asu/' target='_blank'>深脊界--></a></p>"
     }
   },
   "events": [
     {
       "media": {
-        "url": "https://www.youtube.com/watch?v=wuj3JiMM-f0"
+        "url": "https://www.youtube.com/watch?v=wuj3JiMM-f0",
+        "caption": "<a href=\"https://www.youtube.com/watch?v=wuj3JiMM-f0\" target=\"_blank\">Op.1</a>"
       },
       "start_date": {
         "year": "2021",
@@ -28,7 +29,7 @@
     {
       "media": {
         "url": "https://www.youtube.com/watch?v=DvCshxI3sxY",
-        "caption": "THE COVER 01"
+        "caption": "<a href=\"https://www.youtube.com/watch?v=DvCshxI3sxY\" target=\"_blank\">THE COVER 01</a>"
       },
       "start_date": {
         "year": "2021",
@@ -42,7 +43,8 @@
     },
     {
       "media": {
-        "url": "https://twitter.com/ASU_virtual/status/1436269832245186563"
+        "url": "https://pbs.twimg.com/media/E-6nuFIVkAIaixC?format=jpg&name=orig",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1436269832245186563\" target=\"_blank\">Twitter address</a>"
       },
       "start_date": {
         "year": "2021",
@@ -51,13 +53,13 @@
       },
       "text": {
         "headline": "「はじめまして。」20万回再生!",
-        "text": "<p></p>"
+        "text": "<p>20万回再生、</p><p>本当ありがとうございます‼︎✨</p><p>みんなのコメント大切に読んでる。</p><p>ふっふっふー、予想はあたるかな？</p>"
       }
     },
     {
       "media": {
         "url": "https://youtu.be/Y_RWwlQMwwQ",
-        "caption": "THE COVER 02"
+        "caption": "<a href=\"https://youtu.be/Y_RWwlQMwwQ\" target=\"_blank\">THE COVER 02</a>"
       },
       "start_date": {
         "year": "2021",
@@ -71,7 +73,8 @@
     },
     {
       "media": {
-        "url": "https://twitter.com/ASU_virtual/status/1438822587836944387"
+        "url": "https://pbs.twimg.com/media/E_e5hBCVkAQZOc5?format=jpg&name=orig",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1438822587836944387\" target=\"_blank\">Twitter address</a>"
       },
       "start_date": {
         "year": "2021",
@@ -80,13 +83,13 @@
       },
       "text": {
         "headline": "YouTubeチャンネル登録者数が10,000人突破🎉",
-        "text": "<p></p>"
+        "text": "<p>YouTubeチャンネル登録者数</p><p>10,000人突破🎉</p><p>まだまだ伝えたいこと</p><p>たくさんあるから...</p><p>みんな、ついてきてくれる⁇</p>"
       }
     },
     {
       "media": {
         "url": "https://youtu.be/UPSMbjonopQ",
-        "caption": "THE COVER 03"
+        "caption": "<a href=\"https://youtu.be/UPSMbjonopQ\" target=\"_blank\">THE COVER 03</a>"
       },
       "start_date": {
         "year": "2021",
@@ -101,7 +104,7 @@
     {
       "media": {
         "url": "https://youtu.be/iLpjHaZPML0",
-        "caption": "THE COVER 04"
+        "caption": "<a href=\"https://youtu.be/iLpjHaZPML0\" target=\"_blank\">THE COVER 04</a>"
       },
       "start_date": {
         "year": "2021",
@@ -116,7 +119,7 @@
     {
       "media": {
         "url": "https://youtu.be/PKmCny8yWDM?t=1890",
-        "caption": "特別番組「深脊界報慟局」"
+        "caption": "<a href=\"https://youtu.be/PKmCny8yWDM?t=1890\" target=\"_blank\">特別番組「深脊界報慟局」31:30</a>"
       },
       "start_date": {
         "year": "2021",
@@ -131,7 +134,7 @@
     {
       "media": {
         "url": "https://youtu.be/enFLXbbXWdk",
-        "caption": "THE ORIGIN 01"
+        "caption": "<a href=\"https://youtu.be/enFLXbbXWdk\" target=\"_blank\">THE ORIGIN 01</a>"
       },
       "start_date": {
         "year": "2021",
@@ -146,7 +149,7 @@
     {
       "media": {
         "url": "https://youtu.be/HzUrHYjAcxY",
-        "caption": "THE COVER 05"
+        "caption": "<a href=\"https://youtu.be/HzUrHYjAcxY\" target=\"_blank\">THE COVER 05</a>"
       },
       "start_date": {
         "year": "2021",
@@ -161,7 +164,7 @@
     {
       "media": {
         "url": "https://youtu.be/SCOaAnqHseE",
-        "caption": "THE COVER 06"
+        "caption": "<a href=\"https://youtu.be/SCOaAnqHseE\" target=\"_blank\">THE COVER 06</a>"
       },
       "start_date": {
         "year": "2021",
@@ -175,7 +178,8 @@
     },
     {
       "media": {
-        "url": "https://twitter.com/ASU_virtual/status/1468885116567298051"
+        "url": "https://pbs.twimg.com/media/FGKHKa-VUAMTySc?format=jpg&name=orig",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1468885116567298051\" target=\"_blank\">Twitter address</a>"
       },
       "start_date": {
         "year": "2021",
@@ -184,13 +188,13 @@
       },
       "text": {
         "headline": "「スロウリー」50万再生🎉",
-        "text": "<p></p>"
+        "text": "<p>「スロウリー」50万再生、ありがとうございます🎊</p><p>こんなにたくさんの人に聞いてもらえてるなんて…実感湧かないけど</p><p>めちゃくちゃ嬉しい！</p><p>これからもたくさん歌い続けるから、</p><p>楽しみにしててねっ🌙</p>"
       }
     },
     {
       "media": {
         "url": "https://youtu.be/lVJUg_vznrc",
-        "caption": "THE COVER 07"
+        "caption": "<a href=\"https://youtu.be/lVJUg_vznrc\" target=\"_blank\">THE COVER 07</a>"
       },
       "start_date": {
         "year": "2021",
@@ -204,7 +208,8 @@
     },
     {
       "media": {
-        "url": "https://twitter.com/ASU_virtual/status/1473613876596215809"
+        "url": "https://pbs.twimg.com/media/FHNSthEagAEkEri?format=jpg&name=orig",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1473613876596215809\" target=\"_blank\">Twitter address</a>"
       },
       "start_date": {
         "year": "2021",
@@ -213,13 +218,13 @@
       },
       "text": {
         "headline": "Youtubeのチャンネル登録者が2万人突破🎉",
-        "text": "<p></p>"
+        "text": "<p>そんな真冬の本日！Youtubeのチャンネル登録者が2万人突破㊗️しましたーッ！！！🎉🎉🎉</p><p>嬉しいー............ッ いつも応援してくれてありがとう、コメントもリプライもちゃんと見てるよ！</p><p>これからも皆にたくさん、たくさん私の歌を聴いてもらいたいな。</p><p>もっともっと、がんばるね！！✊✨</p>"
       }
     },
     {
       "media": {
         "url": "https://youtu.be/DV1jpHo2W-s",
-        "caption": "LOOK BACK 2021"
+        "caption": "<a href=\"https://youtu.be/DV1jpHo2W-s\" target=\"_blank\">LOOK BACK 2021</a>"
       },
       "start_date": {
         "year": "2022",
@@ -234,7 +239,7 @@
     {
       "media": {
         "url": "https://youtu.be/1pOVF8Av-sE",
-        "caption": "THE COVER 08"
+        "caption": "<a href=\"https://youtu.be/1pOVF8Av-sE\" target=\"_blank\">THE COVER 08</a>"
       },
       "start_date": {
         "year": "2022",
@@ -249,7 +254,7 @@
     {
       "media": {
         "url": "https://youtu.be/8QeWhsNwbRs",
-        "caption": "THE COVER 09"
+        "caption": "<a href=\"https://youtu.be/8QeWhsNwbRs\" target=\"_blank\">THE COVER 09</a>"
       },
       "start_date": {
         "year": "2022",
@@ -263,7 +268,8 @@
     },
     {
       "media": {
-        "url": "https://twitter.com/ASU_virtual/status/1484465590072840196"
+        "url": "https://pbs.twimg.com/media/FJngf4KVEAkwben?format=jpg&name=orig",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1484465590072840196\" target=\"_blank\">Twitter address</a>"
       },
       "start_date": {
         "year": "2022",
@@ -272,13 +278,13 @@
       },
       "text": {
         "headline": "「スロウリー」100万再生🎉",
-        "text": "<p></p>"
+        "text": "<p>皆、たくさん聴いてくれて、本当に、ほんとーーにありがとう。</p><p>初めてのオリジナルソング、皆のおかげで、より思い入れが強まってしまったよ。感謝。</p>"
       }
     },
     {
       "media": {
         "url": "https://www.youtube.com/watch?v=NpTBCiOjyYo",
-        "caption": "THE COVER 10"
+        "caption": "<a href=\"https://www.youtube.com/watch?v=NpTBCiOjyYo\" target=\"_blank\">THE COVER 10</a>"
       },
       "start_date": {
         "year": "2022",
@@ -292,7 +298,9 @@
     },
     {
       "media": {
-        "url": "https://twitter.com/ASU_virtual/status/1485934915678257155"
+        "url": "https://asu-1302665742.cos.ap-hongkong.myqcloud.com/slowly100wore.mp4",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1485934915678257155\" target=\"_blank\">Twitter address</a>",
+        "credit": "<a href=\"https://www.bilibili.com/video/BV18L411F7si\" target=\"_blank\">video origin</a>"
       },
       "start_date": {
         "year": "2022",
@@ -307,7 +315,7 @@
     {
       "media": {
         "url": "https://youtube.com/watch?v=YFZVls4aTHc",
-        "caption": "THE COVER 11"
+        "caption": "<a href=\"https://youtube.com/watch?v=YFZVls4aTHc\" target=\"_blank\">THE COVER 11</a>"
       },
       "start_date": {
         "year": "2022",
@@ -321,7 +329,8 @@
     },
     {
       "media": {
-        "url": "https://twitter.com/ASU_virtual/status/1489907072627986434"
+        "url": "https://pbs.twimg.com/media/FK02lYRVcAI3tCU?format=jpg&name=orig",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1489907072627986434\" target=\"_blank\">Twitter address</a>"
       },
       "start_date": {
         "year": "2022",
@@ -330,13 +339,13 @@
       },
       "text": {
         "headline": "YouTube登録者3万人🎉",
-        "text": "<p></p>"
+        "text": "<p>昨日、YouTubeのチャンネル登録者数が3万人を突破しました！！✨ﾜｰｲﾜｰｲ✨</p> <p>スロウリーの100万再生に続いて、嬉しいお知らせができて幸せです。</p><p>いつも応援してくれる皆さんに感謝！</p><p>これからも、いろんな人に歌が届くように頑張ります！</p><p>今月の新曲もヨロー！🌷</p>"
       }
     },
     {
       "media": {
         "url": "https://youtu.be/EMXGcFP_8n8",
-        "caption": "THE COVER 12"
+        "caption": "<a href=\"https://youtu.be/EMXGcFP_8n8\" target=\"_blank\">THE COVER 12</a>"
       },
       "start_date": {
         "year": "2022",
@@ -351,7 +360,7 @@
     {
       "media": {
         "url": "https://youtu.be/PtJsY_PkpSI",
-        "caption": "THE ORIGIN 02"
+        "caption": "<a href=\"https://youtu.be/PtJsY_PkpSI\" target=\"_blank\">THE ORIGIN 02</a>"
       },
       "start_date": {
         "year": "2022",
@@ -366,7 +375,7 @@
     {
       "media": {
         "url": "https://youtu.be/F826WtvrP4M",
-        "caption": "THE COVER 13"
+        "caption": "<a href=\"https://youtu.be/F826WtvrP4M\" target=\"_blank\">THE COVER 13</a>"
       },
       "start_date": {
         "year": "2022",
@@ -381,7 +390,7 @@
     {
       "media": {
         "url": "https://youtu.be/-FXAPf6jyrw",
-        "caption": "THE COVER 14"
+        "caption": "<a href=\"https://youtu.be/-FXAPf6jyrw\" target=\"_blank\">THE COVER 14</a>"
       },
       "start_date": {
         "year": "2022",
@@ -395,7 +404,8 @@
     },
     {
       "media": {
-        "url": "https://twitter.com/ASU_virtual/status/1497878512375500805"
+        "url": "https://pbs.twimg.com/media/FMmIkTdUcAAgoTJ?format=jpg&name=orig",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1497878512375500805\" target=\"_blank\">Twitter address</a>"
       },
       "start_date": {
         "year": "2022",
@@ -404,13 +414,13 @@
       },
       "text": {
         "headline": "YouTubeチャンネル登録者数が4万人突破しました🎉",
-        "text": "<p></p>"
+        "text": "<p>㊗️YouTubeチャンネル登録者数が4万人突破しました🎉💐</p><p>この間3万人突発祝いしたと思ったら…！</p><p>とても驚いています。</p><p>そして、喜んでいます！</p><p>いつもあたたかく応援してくれる皆のおかげだよ</p><p>一足先に私の心も春がきたようにほかほかになりました🌷</p><p> ありがとう！！</p><p>これからも活動がんばりやす💫</p>"
       }
     },
     {
       "media": {
         "url": "youtu.be/3dWZUupPnZU",
-        "caption": "THE COVER 15"
+        "caption": "<a href=\"youtu.be/3dWZUupPnZU\" target=\"_blank\">THE COVER 15</a>"
       },
       "start_date": {
         "year": "2022",
@@ -424,7 +434,8 @@
     },
     {
       "media": {
-        "url": "https://twitter.com/ASU_virtual/status/1501382001068167174"
+        "url": "https://pbs.twimg.com/media/FNX6-J3UYAAI-uK?format=jpg&name=orig",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1501382001068167174\" target=\"_blank\">Twitter address</a>"
       },
       "start_date": {
         "year": "2022",
@@ -433,13 +444,13 @@
       },
       "text": {
         "headline": "Twitterフォロワーさん2万人突破ー!🎉",
-        "text": "<p></p>"
+        "text": "<p>㊗️Twitterフォロワーさん２万人突破ー！✨🎉💐🎉💐</p><p>いつもリプやいいね、RTしてくれてありがとう！</p><p>歌への感想とか、他の人におすすめしてくれてるのも、見かけてはハナマル笑顔になってます😊✨</p><p>皆とお喋りするみたいにやりとりできるTwitter、これからも楽しみながらやってくので、よろしくーっ🌷</p>"
       }
     },
     {
       "media": {
         "url": "https://youtu.be/2CBPPF_RRgY",
-        "caption": "THE COVER 16"
+        "caption": "<a href=\"https://youtu.be/2CBPPF_RRgY\" target=\"_blank\">THE COVER 16</a>"
       },
       "start_date": {
         "year": "2022",
@@ -453,7 +464,8 @@
     },
     {
       "media": {
-        "url": "https://twitter.com/ASU_virtual/status/1505513890515668995"
+        "url": "https://pbs.twimg.com/media/FOSj_LLaMAQMEy2?format=jpg&name=orig",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1505513890515668995\" target=\"_blank\">Twitter address</a>"
       },
       "start_date": {
         "year": "2022",
@@ -462,13 +474,13 @@
       },
       "text": {
         "headline": "YouTubeチャンネル登録者5万人突破🎉",
-        "text": "<p></p>"
+        "text": "<p>🎉祝！YouTubeチャンネル登録者5万人突破🎉</p><p>先月4万人祝いしたばかりで実感がない、、、けどすごく嬉しい！！</p><p>皆、いつも歌を聴いてくれて本当にありがとう！</p><p>感想や応援の言葉を頂く度、心がほかほかして頑張る気力が湧いてきます！</p><p>カバーもオリジナルも頑張っていくので、これからもヨロシクね🌷</p>"
       }
     },
     {
       "media": {
         "url": "https://youtu.be/eOlJInPsQKk",
-        "caption": "THE COVER 17"
+        "caption": "<a href=\"https://youtu.be/eOlJInPsQKk\" target=\"_blank\">THE COVER 17</a>"
       },
       "start_date": {
         "year": "2022",
@@ -483,7 +495,7 @@
     {
       "media": {
         "url": "https://youtu.be/kkjDUGMuzX8",
-        "caption": "THE COVER 18"
+        "caption": "<a href=\"https://youtu.be/kkjDUGMuzX8\" target=\"_blank\">THE COVER 18</a>"
       },
       "start_date": {
         "year": "2022",
@@ -497,7 +509,8 @@
     },
     {
       "media": {
-        "url": "https://twitter.com/ASU_virtual/status/1510593724094779400"
+        "url": "https://pbs.twimg.com/media/FPa02HwaIAAoRnt?format=jpg&name=orig",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1510593724094779400\" target=\"_blank\">Twitter address</a>"
       },
       "start_date": {
         "year": "2022",
@@ -506,13 +519,13 @@
       },
       "text": {
         "headline": "「スロウリー」のカラオケ配信がはじまってまーす🎉",
-        "text": "<p></p>"
+        "text": "<p>それと更にお知らせ！✉️</p><p>私の1stオリジナルソング「スロウリー」のカラオケ配信がはじまってまーす！</p><p>ぜひカラオケ(気をつけてね！)に行ったら歌ってほしいです🎤🎶</p>"
       }
     },
     {
       "media": {
         "url": "https://youtu.be/EFsrDHF1Jz8",
-        "caption": "THE COVER 19"
+        "caption": "<a href=\"https://youtu.be/EFsrDHF1Jz8\" target=\"_blank\">THE COVER 19</a>"
       },
       "start_date": {
         "year": "2022",
@@ -526,7 +539,8 @@
     },
     {
       "media": {
-        "url": "https://twitter.com/ASU_virtual/status/1513505091059257344"
+        "url": "https://asu-1302665742.cos.ap-hongkong.myqcloud.com/FQEM20hWUAAnvmAB.jpg",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1513505091059257344\" target=\"_blank\">Twitter address</a>"
       },
       "start_date": {
         "year": "2022",
@@ -535,13 +549,13 @@
       },
       "text": {
         "headline": "ソラゴトが1万いいねをやった!スロウリーも2万を!🎉",
-        "text": "<p></p>"
+        "text": "<p>ﾜｰｰ⁉︎ホントだ！ソラゴトが1万いいねを…！！やったやった🎶</p><p>皆さんグッドボタンありがとうございます🌷💐🌷✨</p><p>ソラゴトだけじゃなく、スロウリーも2万を〜…！！感謝しかない🥲</p><p>いつもありがとうございます！心の中で皆さんにお礼のアイスを送ります</p>"
       }
     },
     {
       "media": {
         "url": "https://youtu.be/80GaO5io5to",
-        "caption": "THE COVER 20"
+        "caption": "<a href=\"https://youtu.be/80GaO5io5to\" target=\"_blank\">THE COVER 20</a>"
       },
       "start_date": {
         "year": "2022",
@@ -555,7 +569,8 @@
     },
     {
       "media": {
-        "url": "https://twitter.com/ASU_virtual/status/1515637342144327680"
+        "url": "https://pbs.twimg.com/media/FQieXDhVsAc1wLG?format=jpg&name=orig",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1515637342144327680\" target=\"_blank\">Twitter address</a>"
       },
       "start_date": {
         "year": "2022",
@@ -564,13 +579,13 @@
       },
       "text": {
         "headline": "YouTubeチャンネル登録者数が6万人を突破してたよー🎉",
-        "text": "<p></p>"
+        "text": "<p>YouTubeチャンネル登録者数が6万人を突破してたよー！！🎉💐✨🎉💐✨🎉💐✨</p><p>早い…！本当なのですか…！皆様、毎度ながら感謝感謝感謝です(泣)</p><p>皆がいつも支えてくれているおかげで、歌を届けることができています</p><p>改めてありがとうございます！</p><p>この春もぜひ、応援してくれると嬉しいです！！マル！</p>"
       }
     },
     {
       "media": {
         "url": "https://youtu.be/GzhSKAiqpIU",
-        "caption": "THE COVER 21"
+        "caption": "<a href=\"https://youtu.be/GzhSKAiqpIU\" target=\"_blank\">THE COVER 21</a>"
       },
       "start_date": {
         "year": "2022",
@@ -585,7 +600,7 @@
     {
       "media": {
         "url": "https://youtu.be/tY4B3WOTil4",
-        "caption": "THE COVER 22"
+        "caption": "<a href=\"https://youtu.be/tY4B3WOTil4\" target=\"_blank\">THE COVER 22</a>"
       },
       "start_date": {
         "year": "2022",
@@ -600,7 +615,7 @@
     {
       "media": {
         "url": "https://youtu.be/azjVZIpEaMY",
-        "caption": "THE COVER 23"
+        "caption": "<a href=\"https://youtu.be/azjVZIpEaMY\" target=\"_blank\">THE COVER 23</a>"
       },
       "start_date": {
         "year": "2022",
@@ -615,7 +630,7 @@
     {
       "media": {
         "url": "https://youtu.be/CybkNRQGsYg",
-        "caption": "THE COVER 24"
+        "caption": "<a href=\"https://youtu.be/CybkNRQGsYg\" target=\"_blank\">THE COVER 24</a>"
       },
       "start_date": {
         "year": "2022",
@@ -630,7 +645,7 @@
     {
       "media": {
         "url": "https://youtu.be/gmKbnldbKzQ",
-        "caption": "THE COVER 25"
+        "caption": "<a href=\"https://youtu.be/gmKbnldbKzQ\" target=\"_blank\">THE COVER 25</a>"
       },
       "start_date": {
         "year": "2022",
@@ -644,7 +659,8 @@
     },
     {
       "media": {
-        "url": "https://twitter.com/ASU_virtual/status/1530147127149871104"
+        "url": "https://pbs.twimg.com/media/FTwqtLKaAAApjj-?format=jpg&name=orig",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1530147127149871104\" target=\"_blank\">Twitter address</a>"
       },
       "start_date": {
         "year": "2022",
@@ -653,13 +669,13 @@
       },
       "text": {
         "headline": "YouTubeのチャンネル登録者数が7万人を突破しました🎉",
-        "text": "<p></p>"
+        "text": "<p>🎉㊗️本日！YouTubeのチャンネル登録者数が7万人を突破しました！🎈💐</p><p>fes出演のNEWSに加え、嬉しいお知らせを立て続けにできて、私は…、私は…ッ！！</p><p>喜びに胸溢れております。ｷﾞｭｯ</p><p>皆がいつも応援してくれるおかげでいろんな音楽活動をできてます！</p><p>本当にありがとう！これからもよろしくね🌷</p>"
       }
     },
     {
       "media": {
         "url": "https://youtu.be/Y-rT2b9MUcM",
-        "caption": "THE COVER 26"
+        "caption": "<a href=\"https://youtu.be/Y-rT2b9MUcM\" target=\"_blank\">THE COVER 26</a>"
       },
       "start_date": {
         "year": "2022",
@@ -673,7 +689,8 @@
     },
     {
       "media": {
-        "url": "https://twitter.com/ASU_virtual/status/1531946395157925889"
+        "url": "https://pbs.twimg.com/media/FUKPbaLVIAAoVWN?format=jpg&name=orig",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1531946395157925889\" target=\"_blank\">Twitter address</a>"
       },
       "start_date": {
         "year": "2022",
@@ -682,13 +699,13 @@
       },
       "text": {
         "headline": "「ソラゴト」のMVが100万再生を突破したよ✨",
-        "text": "<p></p>"
+        "text": "<p>なんとー！</p><p>私の2ndオリジナルソング「ソラゴト」のMVが100万再生を突破したよ✨</p><br/><p>は、早〜っ…！</p><p>皆がそれだけ沢山みてくれるってことで…本当にありがとう！</p><p>映像もとても素敵だから、配信だけでなくYouTubeでも、沢山見て聴いてね🌸</p><br/><p>約束っ</p>"
       }
     },
     {
       "media": {
         "url": "https://youtu.be/RIXEtKcPTF4",
-        "caption": "THE ORIGIN 03"
+        "caption": "<a href=\"https://youtu.be/RIXEtKcPTF4\" target=\"_blank\">THE ORIGIN 03</a>"
       },
       "start_date": {
         "year": "2022",
@@ -703,7 +720,7 @@
     {
       "media": {
         "url": "https://youtu.be/duzvTuRt3YY",
-        "caption": "THE COVER27"
+        "caption": "<a href=\"https://youtu.be/duzvTuRt3YY\" target=\"_blank\">THE COVER27</a>"
       },
       "start_date": {
         "year": "2022",
@@ -718,7 +735,7 @@
     {
       "media": {
         "url": "https://youtu.be/0VgGnYM7_14",
-        "caption": "THE COVER28"
+        "caption": "<a href=\"https://youtu.be/0VgGnYM7_14\" target=\"_blank\">THE COVER28</a>"
       },
       "start_date": {
         "year": "2022",
@@ -732,7 +749,8 @@
     },
     {
       "media": {
-        "url": "https://twitter.com/ASU_virtual/status/1539935908958334976"
+        "url": "https://pbs.twimg.com/media/FV7xmZRUEAAWGl5?format=jpg&name=orig",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1539935908958334976\" target=\"_blank\">Twitter address</a>"
       },
       "start_date": {
         "year": "2022",
@@ -741,12 +759,13 @@
       },
       "text": {
         "headline": "「真夜中のメリーゴーランド」が200万再生いっておりましたっ🎉",
-        "text": "<p></p>"
+        "text": "<p>ええっ</p><p>気付いたら200万再生いっておりましたっ</p><p>カバーさせていただいた「真夜中のメリーゴーランド」…！</p><br/><p>ミリオン報告する前にダブルミリオン報告になってしまった！！(そんなことある？)</p><br/><p>信じられーん！でも嬉しい🧡</p><p>いつも聴いてくれる皆様のおかげ✨ありがとうねっ🌷</p>"
       }
     },
     {
       "media": {
-        "url": "https://twitter.com/ASU_virtual/status/1541370571908599808"
+        "url": "https://pbs.twimg.com/media/FWQMVkeakAAoPmJ?format=jpg&name=orig",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1541370571908599808\" target=\"_blank\">Twitter address</a>"
       },
       "start_date": {
         "year": "2022",
@@ -755,12 +774,13 @@
       },
       "text": {
         "headline": "「金木犀の夜」が100万再生を突破しました🎉",
-        "text": "<p></p>"
+        "text": "<p>ワ！！</p><p>フェスへのお知らせしたり皆からのかき氷リプを眺めている間に…！</p><br/><p>カバーさせて頂いた「金木犀の夜」が100万再生を突破しました🎉</p><br/><p>嬉しいお知らせを連続で出来て夢みたい✨</p><p>いつも応援してくれる皆のおかげだよっ</p><p>本当にありがとう！</p><br/><p>これからも沢山聴いてね🌷</p>"
       }
     },
     {
       "media": {
-        "url": "https://twitter.com/ASU_virtual/status/1543178625717268480"
+        "url": "https://pbs.twimg.com/media/FWp4gUEagAAFd0n?format=jpg&name=orig",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1543178625717268480\" target=\"_blank\">Twitter address</a>"
       },
       "start_date": {
         "year": "2022",
@@ -769,13 +789,13 @@
       },
       "text": {
         "headline": "xrfes2022で演出しました🎉",
-        "text": "<p></p>"
+        "text": "<p>いろんな方の歌やパフォーマンス、ステージの演出…</p><p>素晴らしい世界でした✨</p><p>まだ余韻が残ってるけど、このあとは「赤い洗礼」「新世界へ」のフルhttp://ver.MVを</p><p>私と存流ねえのチャンネルで順に公開するよー！🎉</p><br/><p>🧡CHECK IT OUT🧡</p>"
       }
     },
     {
       "media": {
         "url": "https://youtu.be/ewO0HYJmGRU",
-        "caption": "THE ORIGIN"
+        "caption": "<a href=\"https://youtu.be/ewO0HYJmGRU\" target=\"_blank\">THE ORIGIN</a>"
       },
       "start_date": {
         "year": "2022",
@@ -789,7 +809,23 @@
     },
     {
       "media": {
-        "url": "https://twitter.com/ASU_virtual/status/1543186297145430017"
+        "url": "https://youtu.be/5tQMdoqixe8",
+        "caption": "<a href=\"https://youtu.be/5tQMdoqixe8\" target=\"_blank\">THE ORIGIN</a>"
+      },
+      "start_date": {
+        "year": "2022",
+        "month": "7",
+        "day": "2"
+      },
+      "text": {
+        "headline": "存流＆明透 - 新世界へ 【オリジナルMV】",
+        "text": "<p></p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://youtu.be/qKkOfEvvdYA",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1543186297145430017\" target=\"_blank\">Twitter address</a>"
       },
       "start_date": {
         "year": "2022",
@@ -803,7 +839,8 @@
     },
     {
       "media": {
-        "url": "https://twitter.com/ASU_virtual/status/1545714023546531842"
+        "url": "https://pbs.twimg.com/media/FXN6tfuVQAA6B8s?format=jpg&name=orig",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1545714023546531842\" target=\"_blank\">Twitter address</a>"
       },
       "start_date": {
         "year": "2022",
@@ -812,13 +849,13 @@
       },
       "text": {
         "headline": "Twitterフォロワーさん3万人突破ー!🎉",
-        "text": "<p></p>"
+        "text": "<p>わぁ！？叶った！！！笑</p><p>皆ありがと！！！🌟</p><br/><p>これからもお知らせは勿論、ツイッターで皆とお話したりして、繋がっていることを感じていきたいなーと思っています。</p><br/><p>楽しいこと、嬉しいこと、おもってること、一緒にわかちあっていけたらなーって。</p><br/><p>これからもよろしくね🌷</p>"
       }
     },
     {
       "media": {
         "url": "https://youtu.be/SIXh3nNYBtU",
-        "caption": "THE COVER 29"
+        "caption": "<a href=\"https://youtu.be/SIXh3nNYBtU\" target=\"_blank\">THE COVER 29</a>"
       },
       "start_date": {
         "year": "2022",
@@ -832,7 +869,8 @@
     },
     {
       "media": {
-        "url": "https://twitter.com/ASU_virtual/status/1546795071806525440"
+        "url": "https://pbs.twimg.com/media/FXdQXvOaMAEabdK?format=jpg&name=orig",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1546795071806525440\" target=\"_blank\">Twitter address</a>"
       },
       "start_date": {
         "year": "2022",
@@ -841,13 +879,13 @@
       },
       "text": {
         "headline": "YouTubeチャンネル登録者数が８万人を突破しました！🎈",
-        "text": "<p></p>"
+        "text": "<p>🎉YouTubeチャンネル登録者数が８万人を突破しました！🎈</p><br/><p>この間ツイッター3万フォロワーお祝いできたと思ったら、またまた嬉しいことがーッ！！</p><br/><p>皆、いつも沢山見たり聴いたりコメくれたり…本当にありがとうっ✨</p><p>これからも、カバーもオリジナルも、皆の心に届く歌を創っていけるように頑張るね🌷</p>"
       }
     },
     {
       "media": {
         "url": "https://youtu.be/stka19juugM",
-        "caption": "THE COVER 09"
+        "caption": "<a href=\"https://youtu.be/stka19juugM\" target=\"_blank\">THE COVER 09</a>"
       },
       "start_date": {
         "year": "2022",
@@ -862,7 +900,7 @@
     {
       "media": {
         "url": "https://youtu.be/_WnvYZFEkVU",
-        "caption": "THE COVER 31"
+        "caption": "<a href=\"https://youtu.be/_WnvYZFEkVU\" target=\"_blank\">THE COVER 31</a>"
       },
       "start_date": {
         "year": "2022",
@@ -876,8 +914,23 @@
     },
     {
       "media": {
+        "url": "https://youtu.be/c9q5nuP5GBU",
+        "caption": "<a href=\"https://youtu.be/c9q5nuP5GBU\" target=\"_blank\">THE COVER ##</a>"
+      },
+      "start_date": {
+        "year": "2022",
+        "month": "7",
+        "day": "28"
+      },
+      "text": {
+        "headline": "「何様 feat. ぼくのりりっくのぼうよみ / SKY-HI 」 covered by 春猿火×明透",
+        "text": "<p></p>"
+      }
+    },
+    {
+      "media": {
         "url": "https://youtu.be/OEaJ9Tr7r_A",
-        "caption": "THE COVER 32"
+        "caption": "<a href=\"https://youtu.be/OEaJ9Tr7r_A\" target=\"_blank\">THE COVER 32</a>"
       },
       "start_date": {
         "year": "2022",
@@ -892,7 +945,7 @@
     {
       "media": {
         "url": "https://youtu.be/1nxvwPiPmjQ",
-        "caption": "THE COVER 33"
+        "caption": "<a href=\"https://youtu.be/1nxvwPiPmjQ\" target=\"_blank\">THE COVER 33</a>"
       },
       "start_date": {
         "year": "2022",
@@ -906,7 +959,8 @@
     },
     {
       "media": {
-        "url": "https://twitter.com/ASU_virtual/status/1558760120540344320"
+        "url": "https://pbs.twimg.com/media/FaHRg-8acAAyz8H?format=jpg&name=orig",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1558760120540344320\" target=\"_blank\">Twitter address</a>"
       },
       "start_date": {
         "year": "2022",
@@ -915,13 +969,13 @@
       },
       "text": {
         "headline": "Youtubeのチャンネル登録者数が９万人を突破いたしました🎉",
-        "text": "<p></p>"
+        "text": "<p>㊗️昨日、Youtubeのチャンネル登録者数が９万人を突破いたしました！✨💐</p><br/><p>ついに二桁目前だー‼✨</p><p>いつも歌を聴いてくれてありがとう！コメントも！</p><p>嬉しい言葉に毎回励まされてます。</p><br/><p>28日のライブは感謝の気持ちを沢山込めて、頑張って歌います！</p><p>皆、これからもよろしくね🌻</p>"
       }
     },
     {
       "media": {
         "url": "https://youtu.be/10XBfi33QU8",
-        "caption": "THE COVER 34"
+        "caption": "<a href=\"https://youtu.be/10XBfi33QU8\" target=\"_blank\">THE COVER 34</a>"
       },
       "start_date": {
         "year": "2022",
@@ -935,7 +989,8 @@
     },
     {
       "media": {
-        "url": "https://twitter.com/ASU_virtual/status/1563836289324949505"
+        "url": "https://pbs.twimg.com/media/FbPW5vfaAAE4kLV?format=jpg&name=orig",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1563836289324949505\" target=\"_blank\">Twitter address</a>"
       },
       "start_date": {
         "year": "2022",
@@ -944,12 +999,13 @@
       },
       "text": {
         "headline": "🌻「サンライトLIVE」開催！🌻",
-        "text": "<p></p>"
+        "text": "<p>明透 1st ANNIVERSARY 記念カバーライブ </p><p>🌻「サンライトLIVE」🌻</p>"
       }
     },
     {
       "media": {
-        "url": "https://twitter.com/ASU_virtual/status/1564189381271109632"
+        "url": "https://pbs.twimg.com/media/FbUdGkNaQAARsOq?format=jpg&name=orig",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1564189381271109632\" target=\"_blank\">Twitter address</a>"
       },
       "start_date": {
         "year": "2022",
@@ -958,13 +1014,13 @@
       },
       "text": {
         "headline": "YouTubeチャンネル登録者が10万人を突破しましたー！！😆🎉🎊✨",
-        "text": "<p></p>"
+        "text": "<p>お昼にも告知したけど昨晩の「#サンライトLIVE」、Cover Live Albumとして事前予約開始しております💿</p><br/><p>アーカイブももう少しで終わってしまうので</p><p>是非、昨夜の思い出はコチラでお聴きください✨(引用RT先みてね！)</p><br/><p>そして…YouTubeチャンネル登録者が！</p><br/><p>ついに10万人を突破しましたー！！😆🎉🎊✨</p>"
       }
     },
     {
       "media": {
         "url": "https://youtu.be/8Hp1ynoAho8",
-        "caption": "THE ORIGIN 04"
+        "caption": "<a href=\"https://youtu.be/8Hp1ynoAho8\" target=\"_blank\">THE ORIGIN 04</a>"
       },
       "start_date": {
         "year": "2022",
@@ -993,7 +1049,7 @@
     {
       "media": {
         "url": "https://youtu.be/GsOjtWoFhdk",
-        "caption": "THE COVER 35"
+        "caption": "<a href=\"https://youtu.be/GsOjtWoFhdk\" target=\"_blank\">THE COVER 35</a>"
       },
       "start_date": {
         "year": "2022",
@@ -1007,7 +1063,8 @@
     },
     {
       "media": {
-        "url": "https://twitter.com/ASU_virtual/status/1570004357470621698"
+        "url": "https://pbs.twimg.com/media/FcnFKTUaMAIQzDO?format=jpg&name=orig",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1570004357470621698\" target=\"_blank\">Twitter address</a>"
       },
       "start_date": {
         "year": "2022",
@@ -1016,13 +1073,13 @@
       },
       "text": {
         "headline": "YouTubeチャンネル登録者11万人突破しました🎉🎊✨",
-        "text": "<p></p>"
+        "text": "<p>㊗️YouTubeチャンネル登録者11万人突破しました🎉🎊✨</p><br/><p>サンライトLIVEで10万人突破したと思ってたらもう11万人…！</p><p>は、早いです‼️</p><br/><p>これもライブや配信をあすナーの皆が盛り上げてくれたおかげです…！✨本当にありがとう！</p><br/><p>これからも皆の日々と心に寄り添えるような歌が歌っていけたらいいなあ🌷</p>"
       }
     },
     {
       "media": {
         "url": "https://youtu.be/o7-d8HYc5Ns",
-        "caption": "THE COVER 36"
+        "caption": "<a href=\"https://youtu.be/o7-d8HYc5Ns\" target=\"_blank\">THE COVER 36</a>"
       },
       "start_date": {
         "year": "2022",
@@ -1037,7 +1094,7 @@
     {
       "media": {
         "url": "https://youtu.be/RLU7E8Bn2UA",
-        "caption": "THE COVER 37"
+        "caption": "<a href=\"https://youtu.be/RLU7E8Bn2UA\" target=\"_blank\">THE COVER 37</a>"
       },
       "start_date": {
         "year": "2022",
@@ -1052,7 +1109,7 @@
     {
       "media": {
         "url": "https://youtu.be/9VZfXG6T8T4",
-        "caption": "THE COVER 38"
+        "caption": "<a href=\"https://youtu.be/9VZfXG6T8T4\" target=\"_blank\">THE COVER 38</a>"
       },
       "start_date": {
         "year": "2022",
@@ -1066,7 +1123,8 @@
     },
     {
       "media": {
-        "url": "https://twitter.com/ASU_virtual/status/1577601739356004354"
+        "url": "https://pbs.twimg.com/media/FeTDR0maUAAG-UD?format=jpg&name=orig",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1577601739356004354\" target=\"_blank\">Twitter address</a>"
       },
       "start_date": {
         "year": "2022",
@@ -1075,13 +1133,13 @@
       },
       "text": {
         "headline": "「ねむるまち」が100万再生を突破しておりました🎉🥳🎂",
-        "text": "<p></p>"
+        "text": "<p>そして！💌</p><p>カバーした「ねむるまち」が100万再生を突破しておりました！！🎉🥳🎂</p><br/><p>https://youtu.be/CybkNRQGsYg</p><br/><p>3本目のミリオン達成のカバー！</p><p>この曲の世界観とyamaさんの歌が大好きなので、とても嬉しい…！</p><br/><p>今日のカバーと合わせて、秋の夜、音楽にくるまれて素敵な眠りに皆を誘えたらいいなあ🎶</p>"
       }
     },
     {
       "media": {
         "url": "https://youtu.be/gjX5QaaBVzo",
-        "caption": "THE COVER 39"
+        "caption": "<a href=\"https://youtu.be/gjX5QaaBVzo\" target=\"_blank\">THE COVER 39</a>"
       },
       "start_date": {
         "year": "2022",
@@ -1095,7 +1153,8 @@
     },
     {
       "media": {
-        "url": "https://twitter.com/ASU_virtual/status/1581970527043735552"
+        "url": "https://pbs.twimg.com/media/FfRIAS6VUAEhPvu?format=jpg&name=orig",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1581970527043735552\" target=\"_blank\">Twitter address</a>"
       },
       "start_date": {
         "year": "2022",
@@ -1104,13 +1163,28 @@
       },
       "text": {
         "headline": "YouTubeチャンネルの登録者が12万人を突破したよ🎉ﾄﾞﾝﾊﾟﾌ！🥳",
-        "text": "<p></p>"
+        "text": "<p>㊗️YouTubeチャンネルの登録者が12万人を突破したよ🎉ﾄﾞﾝﾊﾟﾌ！🥳</p><br/><p>本当にこうしてお祝いをするスパンが早くて…皆の応援力を実感してる😭</p><p>いつも歌を聴いてくれて本当にありがとう！</p><p>コメントやリプライ、励みになっています。</p><br/><p>今週末はあるあす通信もあるし！</p><p>コチラぜひぜひよろしくね💜🧡📺</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://youtu.be/zre8JaUSm4I",
+        "caption": "<a href=\"https://youtu.be/zre8JaUSm4I\" target=\"_blank\">あるあす通信vol.2</a>"
+      },
+      "start_date": {
+        "year": "2022",
+        "month": "10",
+        "day": "22"
+      },
+      "text": {
+        "headline": "あるあす通信 vol.2",
+        "text": "<p>今回はお昼配信！ということで、なんとゲストには理芽ちゃん(@RIM_virtual)をお迎えする予定だよ👏🇺🇸</p><br/><p>ランチしながら？おわりに？</p><p>是非みにきてねー！🍽</p>"
       }
     },
     {
       "media": {
         "url": "https://youtu.be/L91P4amw9_E",
-        "caption": "THE COVER 40"
+        "caption": "<a href=\"https://youtu.be/L91P4amw9_E\" target=\"_blank\">THE COVER 40</a>"
       },
       "start_date": {
         "year": "2022",
@@ -1125,7 +1199,7 @@
     {
       "media": {
         "url": "https://youtu.be/1wRnzs_gsU8",
-        "caption": "THE COVER 41"
+        "caption": "<a href=\"https://youtu.be/1wRnzs_gsU8\" target=\"_blank\">THE COVER 41</a>"
       },
       "start_date": {
         "year": "2022",
@@ -1139,7 +1213,8 @@
     },
     {
       "media": {
-        "url": "https://twitter.com/ASU_virtual/status/1588473517691265029"
+        "url": "https://pbs.twimg.com/media/FgtkPVXUoAADXm2?format=jpg&name=orig",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1588473517691265029\" target=\"_blank\">Twitter address</a>"
       },
       "start_date": {
         "year": "2022",
@@ -1148,13 +1223,13 @@
       },
       "text": {
         "headline": "銀の盾が届いたよー✨🛡✨",
-        "text": "<p></p>"
+        "text": "<p>銀の盾が届いたよー✨🛡✨</p><br/><p>サンライトLIVEで達成した思い出の10万人登録、形でもらうと喜びもひとしおです🌷</p><br/><p>これもいつも応援してくれる皆のおかげ！</p><p>本当にいつもありがとうね</p><p>これからも良い歌を届けられるよう頑張っていくので、応援よろしくお願いします🙌✨</p><br/><p>次の目標は20万人❣️がんばるでぃっ</p>"
       }
     },
     {
       "media": {
         "url": "https://youtu.be/plgQYmn1l6o",
-        "caption": "THE COVER 42"
+        "caption": "<a href=\"https://youtu.be/plgQYmn1l6o\" target=\"_blank\">THE COVER 42</a>"
       },
       "start_date": {
         "year": "2022",
@@ -1168,7 +1243,8 @@
     },
     {
       "media": {
-        "url": "https://twitter.com/ASU_virtual/status/1593939660920614912"
+        "url": "https://pbs.twimg.com/media/Fh7PSrLVUAAV2VA?format=jpg&name=orig",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1593939660920614912\" target=\"_blank\">Twitter address</a>"
       },
       "start_date": {
         "year": "2022",
@@ -1177,12 +1253,13 @@
       },
       "text": {
         "headline": "【存流・明透 TWO-MAN LIVE「Albemuth」】開催決定です‼️✨✨",
-        "text": "<p></p>"
+        "text": "<p>初めて自分たちだけの、オリジナル曲を披露するステージ！</p><p>今からとても楽しみです！</p>"
       }
     },
     {
       "media": {
-        "url": "https://twitter.com/ASU_virtual/status/1593940304100368384"
+        "url": "https://youtu.be/Yv0xvLVbCJ4",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1593940304100368384\" target=\"_blank\">Twitter address</a>"
       },
       "start_date": {
         "year": "2022",
@@ -1191,13 +1268,28 @@
       },
       "text": {
         "headline": "バーチャルシンガー ユニット【Albemuth】結成",
-        "text": "<p></p>"
+        "text": "<p>バーチャルシンガー ユニット</p><p>【Albemuth】結成</p><br/><p>はじまりの音楽を、今。</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://youtu.be/lq_LskErJfE",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1594281901396840448\" target=\"_blank\">Twitter address</a>"
+      },
+      "start_date": {
+        "year": "2022",
+        "month": "11",
+        "day": "20"
+      },
+      "text": {
+        "headline": "あるあす通信vol.3 スペシャル",
+        "text": "<p>ライブやグッズ、それに新曲と…🎧</p>"
       }
     },
     {
       "media": {
         "url": "https://youtu.be/qP_zzi5wksE",
-        "caption": "記念すべきAlbemuthとしての最初の1曲"
+        "caption": "<a href=\"https://youtu.be/qP_zzi5wksE\" target=\"_blank\">記念すべきAlbemuthとしての最初の1曲</a>"
       },
       "start_date": {
         "year": "2022",
@@ -1211,21 +1303,8 @@
     },
     {
       "media": {
-        "url": "https://youtu.be/lq_LskErJfE"
-      },
-      "start_date": {
-        "year": "2022",
-        "month": "11",
-        "day": "20"
-      },
-      "text": {
-        "headline": "あるあす通信 スペシャルです！🎉",
-        "text": "<p></p>"
-      }
-    },
-    {
-      "media": {
-        "url": "https://twitter.com/ASU_virtual/status/1595375356516528135"
+        "url": "https://pbs.twimg.com/media/FiOSiKwVsAAhnLU?format=jpg&name=orig",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1595375356516528135\" target=\"_blank\">Twitter address</a>"
       },
       "start_date": {
         "year": "2022",
@@ -1234,12 +1313,13 @@
       },
       "text": {
         "headline": "Youtubeチャンネル登録者が13万人を突破いたしました🎉",
-        "text": "<p></p>"
+        "text": "<p>そしてなんと！</p><p>先日私のYoutubeチャンネル登録者が13万人を突破いたしました🎉🎉🎉🎉</p><br/><p>「Albemuth」が盛り上がっていく中、ソロ活動の方も勿論、頑張っていくのでよろしくお願いします！🎂</p><br/><p>さーらーにー！</p><p>サブchの登録者も1000人突破したよー❗️💮</p><p>条件1つクリアだー！✨✨</p>"
       }
     },
     {
       "media": {
-        "url": "https://twitter.com/ASU_virtual/status/1595739414566952960"
+        "url": "https://pbs.twimg.com/media/FiU0ie3UYAMN_tJ?format=jpg&name=orig",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1595739414566952960\" target=\"_blank\">Twitter address</a>"
       },
       "start_date": {
         "year": "2022",
@@ -1248,12 +1328,13 @@
       },
       "text": {
         "headline": "Twitterもフォロワーが4万人突破いたしました🎉",
-        "text": "<p></p>"
+        "text": "<p>皆さま！</p><p>「幽ノ楽園」、聴いて&MVみてくれてありがとう！！✨</p><p>コメントだけでなくツイートでも感想やAlbemuthについて嬉しい言葉を寄せてくれる方々を見かけてすごい嬉しいです❣️</p><br/><p>そしてなんと！！</p><p>Twitterもフォロワーが4万人突破いたしました🎉🎉🎉🎉🎉🎉</p>"
       }
     },
     {
       "media": {
-        "url": "https://twitter.com/ASU_virtual/status/1597894524621451265"
+        "url": "https://pbs.twimg.com/media/FizbcSyaUAA0nM3?format=jpg&name=orig",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1597894524621451265\" target=\"_blank\">Twitter address</a>"
       },
       "start_date": {
         "year": "2022",
@@ -1262,13 +1343,13 @@
       },
       "text": {
         "headline": "「スロウリー」が200万再生を突破しました🎉",
-        "text": "<p></p>"
+        "text": "<p>わあ！！</p><p>私のオリジナルソング、「スロウリー」が200万再生を突破しました🎉🎉🎉🎉</p><p>https://youtu.be/enFLXbbXWdk</p><br/><p>ちょうど去年の今頃だした私の初のオリジナル曲、こんなにたくさん聴いていただけるなんて…</p><br/><p>ライブ開催・ユニット結成に加えて、夢のようなことがたて続き、とても感動しています…！✨✨</p>"
       }
     },
     {
       "media": {
         "url": "https://youtu.be/jDItk7I4Lus",
-        "caption": "THE COVER 43"
+        "caption": "<a href=\"https://youtu.be/jDItk7I4Lus\" target=\"_blank\">THE COVER 43</a>"
       },
       "start_date": {
         "year": "2022",
@@ -1282,7 +1363,8 @@
     },
     {
       "media": {
-        "url": "https://twitter.com/ASU_virtual/status/1603707286123610113"
+        "url": "https://pbs.twimg.com/media/FkGB0cBUcAAK4Kf?format=jpg&name=orig",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1603707286123610113\" target=\"_blank\">Twitter address</a>"
       },
       "start_date": {
         "year": "2022",
@@ -1291,13 +1373,13 @@
       },
       "text": {
         "headline": "YouTube登録者数が14万人を突破いたしました‼️🎉✨",
-        "text": "<p></p>"
+        "text": "<p>㊗️YouTube登録者数が14万人を突破いたしました‼️🎉✨</p><br/><p>いつも本当にありがとうございます💐</p><p>皆が、私の歌を聴いて、嬉しい言葉を投げかけてくれるたびに幸せな気持ちで満ちています🌷</p><p>(嬉しくて数時間に一度はエゴサしてしまう…😅)</p><br/><p>ここからもライブに向けて駆け抜けていくので！</p><p>応援よろしくね🙌✨</p>"
       }
     },
     {
       "media": {
         "url": "https://youtu.be/Q2dxZ0BLGo4",
-        "caption": "THE COVER 44"
+        "caption": "<a href=\"https://youtu.be/Q2dxZ0BLGo4\" target=\"_blank\">THE COVER 44</a>"
       },
       "start_date": {
         "year": "2022",
@@ -1312,7 +1394,7 @@
     {
       "media": {
         "url": "https://youtu.be/pPmoHOwdriM",
-        "caption": "THE COVER 45"
+        "caption": "<a href=\"https://youtu.be/pPmoHOwdriM\" target=\"_blank\">THE COVER 45</a>"
       },
       "start_date": {
         "year": "2022",
@@ -1326,8 +1408,23 @@
     },
     {
       "media": {
+        "url": "https://youtu.be/PEKeaHRD4Dc",
+        "caption": "<a href=\"https://youtu.be/PEKeaHRD4Dc\" target=\"_blank\">あるあす通信vol.4</a>"
+      },
+      "start_date": {
+        "year": "2022",
+        "month": "12",
+        "day": "26"
+      },
+      "text": {
+        "headline": "あるあす通信vol.4",
+        "text": "<p></p>"
+      }
+    },
+    {
+      "media": {
         "url": "https://youtu.be/jDL3f0MX1FQ",
-        "caption": "THE COVER 46"
+        "caption": "<a href=\"https://youtu.be/jDL3f0MX1FQ\" target=\"_blank\">THE COVER 46</a>"
       },
       "start_date": {
         "year": "2023",
@@ -1342,7 +1439,7 @@
     {
       "media": {
         "url": "https://youtu.be/LaGWF-Pf0DQ",
-        "caption": "THE COVER 47"
+        "caption": "<a href=\"https://youtu.be/LaGWF-Pf0DQ\" target=\"_blank\">THE COVER 47</a>"
       },
       "start_date": {
         "year": "2023",
@@ -1356,7 +1453,8 @@
     },
     {
       "media": {
-        "url": "https://twitter.com/ASU_virtual/status/1613476000867778560"
+        "url": "https://pbs.twimg.com/media/FmQjDWYacAAYpfI?format=jpg&name=orig",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1613476000867778560\" target=\"_blank\">Twitter address</a>"
       },
       "start_date": {
         "year": "2023",
@@ -1365,13 +1463,28 @@
       },
       "text": {
         "headline": "YouTubeチャンネル登録者が15万人を突破いたしました🎉🎈🎂",
-        "text": "<p></p>"
+        "text": "<p>㊗️YouTubeチャンネル登録者が15万人を突破いたしました🎉🎈🎂‼️</p><br/><p>新年早々おめでたい🌅✨</p><p>ライブに向けて気持ちが高まっている中、さらにテンションがｱｶﾞｯていきます‥！</p><br/><p>皆、いつも沢山、歌を聴いてくれてありがとう‼️</p><p>2023年の活動＆ライブに向けてこれからも頑張ってくよ🙌</p><br/><p>さーらーにー!!💌</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://youtu.be/tAz3dHX5QWw",
+        "caption": "<a href=\"https://youtu.be/tAz3dHX5QWw\" target=\"_blank\">あるあす通信vol.5</a>"
+      },
+      "start_date": {
+        "year": "2023",
+        "month": "1",
+        "day": "15"
+      },
+      "text": {
+        "headline": "あるあす通信vol.5",
+        "text": "<p>新年初配信だ🎍✨</p>"
       }
     },
     {
       "media": {
         "url": "https://youtu.be/WLlU2vfGnbE",
-        "caption": "THE ORIGIN 05"
+        "caption": "<a href=\"https://youtu.be/WLlU2vfGnbE\" target=\"_blank\">THE ORIGIN 05</a>"
       },
       "start_date": {
         "year": "2023",
@@ -1386,7 +1499,7 @@
     {
       "media": {
         "url": "https://youtu.be/0lfDdziSdnw",
-        "caption": "<a href='https://youtu.be/0lfDdziSdnw'>member only, jump to youtube page</a>"
+        "caption": "<a href=\"https://youtu.be/0lfDdziSdnw\" target=\"_blank\">「CLEAR ASU」vol.1</a>"
       },
       "start_date": {
         "year": "2023",
@@ -1401,7 +1514,7 @@
     {
       "media": {
         "url": "https://youtu.be/HKHQzv_6AgQ",
-        "caption": "THE COVER 48"
+        "caption": "<a href=\"https://youtu.be/HKHQzv_6AgQ\" target=\"_blank\">THE COVER 48</a>"
       },
       "start_date": {
         "year": "2023",
@@ -1415,7 +1528,8 @@
     },
     {
       "media": {
-        "url": "https://twitter.com/ASU_virtual/status/1620740992143069184"
+        "url": "https://pbs.twimg.com/media/Fn4DDA6aIAMsR4Y?format=jpg&name=orig",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1620740992143069184\" target=\"_blank\">Twitter address</a>"
       },
       "start_date": {
         "year": "2023",
@@ -1424,13 +1538,13 @@
       },
       "text": {
         "headline": "YouTubeチャンネル登録者数が16万人を突破しました💐",
-        "text": "<p></p>"
+        "text": "<p>2月！ついに今月ライブ開催🎈</p><p>本番に向けて徐々に仕上がってきております、私＆私たち…✨</p><br/><p>そんな中！<p>YouTubeチャンネル登録者数が16万人を突破しました‼️💐</p><p>ライブに向けて盛り上がっていく感じがしてワクワクが止まらない…！</p><p>ライブ当日はこの勢いをそのままに、皆で音楽を楽しもう！！🎉🎤</p>"
       }
     },
     {
       "media": {
         "url": "https://youtu.be/3msqtp_vdtE",
-        "caption": "THE COVER 49"
+        "caption": "<a href=\"https://youtu.be/3msqtp_vdtE\" target=\"_blank\">THE COVER 49</a>"
       },
       "start_date": {
         "year": "2023",
@@ -1444,7 +1558,8 @@
     },
     {
       "media": {
-        "url": "https://twitter.com/ASU_virtual/status/1623615443733999618"
+        "url": "https://pbs.twimg.com/media/Fog8Y1gaMAAuDIw?format=jpg&name=orig",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1623615443733999618\" target=\"_blank\">Twitter address</a>"
       },
       "start_date": {
         "year": "2023",
@@ -1453,13 +1568,13 @@
       },
       "text": {
         "headline": "「ソラゴト」 200万再生突破✨",
-        "text": "<p></p>"
+        "text": "<p>㊗️「ソラゴト」 200万再生突破‼️✨</p><p>https://youtu.be/PtJsY_PkpSI</p><br/><p>オリジナルソング、「ソラゴト 」の再生回数がダブルミリオンを突破いたしました…！</p><p>「スロウリー」 に続きダブルミリオン2曲目、本当ですか…？！</p><br/><p>夢のようです…！</p><br/><p>ライブ直前、また追い風を皆がつけてくれたのを感じます！！🙌✨</p>"
       }
     },
     {
       "media": {
         "url": "https://youtu.be/TPUN8RKspys",
-        "caption": "THE ORIGIN"
+        "caption": "<a href=\"https://youtu.be/TPUN8RKspys\" target=\"_blank\">THE ORIGIN</a>"
       },
       "start_date": {
         "year": "2023",
@@ -1473,7 +1588,8 @@
     },
     {
       "media": {
-        "url": "https://twitter.com/ASU_virtual/status/1625814175460245504"
+        "url": "https://pbs.twimg.com/media/FpAGYfmaIAA24J2?format=jpg&name=orig",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1625814175460245504\" target=\"_blank\">Twitter address</a>"
       },
       "start_date": {
         "year": "2023",
@@ -1482,12 +1598,58 @@
       },
       "text": {
         "headline": "YouTubeのチャンネル登録者が17万人を突破しました🎉",
+        "text": "<p>さらにさらに！</p><p>YouTubeのチャンネル登録者が17万人を突破しました‥！🎉✨</p><br/><p>この間16万人達成したと思ったら…すごい！</p><p>皆の力で、ライブにむけて更に追い風がつきました。</p><br/><p>私と存流ねえの初ライブ、是非多くの人にみてもらいたい…！</p><br/><p>皆さん当日まで、応援よろしくお願いします！</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://www.youtube.com/live/J4Ol0giHFKU?feature=share",
+        "caption": "<a href=\"https://www.youtube.com/live/J4Ol0giHFKU?feature=share\" target=\"_blank\">CLEAR ASU Vol.2</a>"
+      },
+      "start_date": {
+        "year": "2023",
+        "month": "2",
+        "day": "16"
+      },
+      "text": {
+        "headline": "CLEAR ASU -プレ配信 #02-",
         "text": "<p></p>"
       }
     },
     {
       "media": {
-        "url": "https://youtu.be/tFJG68ee4KY"
+        "url": "https://youtu.be/S_tas_8EUWc",
+        "caption": "<a href=\"https://youtu.be/S_tas_8EUWc\" target=\"_blank\">THE COVER ##</a>"
+      },
+      "start_date": {
+        "year": "2023",
+        "month": "2",
+        "day": "18"
+      },
+      "text": {
+        "headline": "空が鳴っている - 東京事変 covered by Albemuth",
+        "text": "<p></p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://youtube.com/live/9Ye3wGa9",
+        "caption": "<a href=\"https://youtube.com/live/9Ye3wGa9\" target=\"_blank\">あるあす通信  Vol.6</a>"
+      },
+      "start_date": {
+        "year": "2023",
+        "month": "2",
+        "day": "19"
+      },
+      "text": {
+        "headline": "あるあす通信  Vol.6",
+        "text": "<p></p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://youtu.be/tFJG68ee4KY",
+        "caption": "<a href=\"https://youtu.be/tFJG68ee4KY\" target=\"_blank\">動画</a>"
       },
       "start_date": {
         "year": "2023",
@@ -1501,7 +1663,8 @@
     },
     {
       "media": {
-        "url": "https://twitter.com/ASU_virtual/status/1629083795185090562"
+        "url": "https://pbs.twimg.com/media/FpuqPCMaYAAc_oh?format=jpg&name=orig",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1629083795185090562\" target=\"_blank\">Twitter address</a>"
       },
       "start_date": {
         "year": "2023",
@@ -1510,12 +1673,13 @@
       },
       "text": {
         "headline": "YouTubeのチャンネル登録者が18万人を突破いたしました🎉",
-        "text": "<p></p>"
+        "text": "<p>そして！</p><p>ライブ直前でYouTubeのチャンネル登録者が18万人を突破いたしました…！✨🎉</p><br/><p>神風吹いてる…？！</p><p>本当にありがとうございます！</p><br/><p>ライブの冒頭はYouTubeLiveで無料配信もする予定です📺</p><p>https://youtube.com/live/JspNx9wU5_o?feature=share</p><br/><p>この機会に私たちを知らなかった方にも興味を持ってもらえたらと思っています</p>"
       }
     },
     {
       "media": {
-        "url": "https://twitter.com/ASU_virtual/status/1629465789429596165"
+        "url": "https://asu-1302665742.cos.ap-hongkong.myqcloud.com/Fp0GaBracAEKaLm2.jpg",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1629465789429596165\" target=\"_blank\">Twitter address</a>"
       },
       "start_date": {
         "year": "2023",
@@ -1524,12 +1688,13 @@
       },
       "text": {
         "headline": "Albemuthライブ皆へのメッセージ。",
-        "text": "<p></p>"
+        "text": "<p>皆へ</p>"
       }
     },
     {
       "media": {
-        "url": "https://twitter.com/ASU_virtual/status/1629467210120036353"
+        "url": "https://pbs.twimg.com/media/Fp0HA8gaIAAexkK?format=jpg&name=orig",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1629467210120036353\" target=\"_blank\">Twitter address</a>"
       },
       "start_date": {
         "year": "2023",
@@ -1538,7 +1703,7 @@
       },
       "text": {
         "headline": "1st Album「ASU」披露",
-        "text": "<p></p>"
+        "text": "<p>1st Album「ASU」</p><br/><p>いろんな方々に作っていただいた曲を歌えたのは、ひたすら楽しい経験でした。</p><p>このアルバムは聴いていて可能性が無限大になるような…自分がどこか、素敵な場所に行けるような、そんな1枚になっていると思います。</p><br/><p>是非、聴いてください。</p>"
       }
     },
     {
@@ -1558,7 +1723,7 @@
     {
       "media": {
         "url": "https://youtu.be/OHO8Sm4kSfY",
-        "caption": "THE COVER 50"
+        "caption": "<a href=\"https://youtu.be/OHO8Sm4kSfY\" target=\"_blank\">THE COVER 50</a>"
       },
       "start_date": {
         "year": "2023",
@@ -1572,7 +1737,8 @@
     },
     {
       "media": {
-        "url": "https://twitter.com/ASU_virtual/status/1633777571941810178"
+        "url": "https://pbs.twimg.com/media/FqxT62wacAIuvE1?format=jpg&name=orig",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1633777571941810178\" target=\"_blank\">Twitter address</a>"
       },
       "start_date": {
         "year": "2023",
@@ -1581,13 +1747,13 @@
       },
       "text": {
         "headline": "「ライトイヤーズ」が100万再生突破してたらしい🎉✨",
-        "text": "<p></p>"
+        "text": "<p>https://youtu.be/WLlU2vfGnbE</p><br/><p>なんと！</p><p>オリジナル曲「ライトイヤーズ」が100万再生突破してたらしい🎉✨</p><br/><p>MVを投稿したのが1月だから…約2ヶ月⁉️</p><p>今日の日差しよりも暖かい気持ちなう(嬉)(泣)</p><br/><p>これからも皆に沢山歌を聴いてもらえるよう、活動を頑張っていきます！ので！</p><p>よろしくお願いいたします💐✨</p>"
       }
     },
     {
       "media": {
         "url": "https://youtu.be/EIP4YfBgYR0",
-        "caption": "THE COVER 51"
+        "caption": "<a href=\"https://youtu.be/EIP4YfBgYR0\" target=\"_blank\">THE COVER 51</a>"
       },
       "start_date": {
         "year": "2023",
@@ -1601,8 +1767,38 @@
     },
     {
       "media": {
+        "url": "https://www.youtube.com/live/cBFeL5oYTI8?feature=share",
+        "caption": "<a href=\"https://www.youtube.com/live/cBFeL5oYTI8?feature=share\" target=\"_blank\">CLEAR ASU #2【メンバーシップ限定】</a>"
+      },
+      "start_date": {
+        "year": "2023",
+        "month": "3",
+        "day": "13"
+      },
+      "text": {
+        "headline": "CLEAR ASU #2",
+        "text": "<p></p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://www.youtube.com/live/bsg8-XPPbc4?feature=share",
+        "caption": "<a href=\"https://www.youtube.com/live/bsg8-XPPbc4?feature=share\" target=\"_blank\">あるあす通信 Vol.7</a>"
+      },
+      "start_date": {
+        "year": "2023",
+        "month": "3",
+        "day": "19"
+      },
+      "text": {
+        "headline": "あるあす通信 Vol.7",
+        "text": "<p></p>"
+      }
+    },
+    {
+      "media": {
         "url": "https://youtu.be/pfaWu-XUlXk",
-        "caption": "明透 - オレンジ (Live ver.) "
+        "caption": "<a href=\"https://youtu.be/pfaWu-XUlXk\" target=\"_blank\">明透 - オレンジ (Live ver.) </a>"
       },
       "start_date": {
         "year": "2023",
@@ -1617,7 +1813,7 @@
     {
       "media": {
         "url": "https://youtu.be/p4UXw5r49eA",
-        "caption": "THE COVER 52"
+        "caption": "<a href=\"https://youtu.be/p4UXw5r49eA\" target=\"_blank\">THE COVER 52</a>"
       },
       "start_date": {
         "year": "2023",
@@ -1631,7 +1827,8 @@
     },
     {
       "media": {
-        "url": "https://twitter.com/ASU_virtual/status/1639222080104448002"
+        "url": "https://pbs.twimg.com/media/Fr-t-2-akAECogm?format=jpg&name=orig",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1639222080104448002\" target=\"_blank\">Twitter address</a>"
       },
       "start_date": {
         "year": "2023",
@@ -1640,12 +1837,13 @@
       },
       "text": {
         "headline": "YouTubeチャンネル登録者が19万人を突破しました🎉",
-        "text": "<p></p>"
+        "text": "<p>YouTubeチャンネル登録者が19万人を突破しました🎉</p><br/><p>ついに20万人目前に…！！✨本当にいつも応援ありがとう！</p><br/><p>ライブにメンバーシップに、皆のおかげで沢山活動の幅が広がってきました…！</p><p>皆の声に応えられるようにもっともっと歌を頑張って届けていきたいと思います！</p><br/><p>皆！これからもよろしくね💐</p>"
       }
     },
     {
       "media": {
-        "url": "https://twitter.com/ASU_virtual/status/1642119288692813824"
+        "url": "https://pbs.twimg.com/media/Fsn6ydmaAAExkyC?format=jpg&name=orig",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1642119288692813824\" target=\"_blank\">Twitter address</a>"
       },
       "start_date": {
         "year": "2023",
@@ -1654,13 +1852,13 @@
       },
       "text": {
         "headline": "神椿フェスDAY2出演",
-        "text": "<p></p>"
+        "text": "<p>改めて！昨日の #神椿フェスDAY2 、見にきてくれた皆、ありがとう‼️</p><p>初めて私や存流ねえの歌を聴いてくれた皆さんも、良ければこの機会に私たちのことを知ってくれたら嬉しいな🕊</p><br/><p>そしてお花！😭</p><p>私や存流ねぇ、Albemuthのカラーセレクトやイラスト、ホント感動🤍🧡💜💙</p><br/><p>贈ってくれた皆ありがとね！</p>"
       }
     },
     {
       "media": {
         "url": "https://youtu.be/uqStnNo2OX0",
-        "caption": "THE COVER 53"
+        "caption": "<a href=\"https://youtu.be/uqStnNo2OX0\" target=\"_blank\">THE COVER 53</a>"
       },
       "start_date": {
         "year": "2023",
@@ -1675,7 +1873,7 @@
     {
       "media": {
         "url": "https://youtu.be/PRhR__UogTU",
-        "caption": "THE COVER 54"
+        "caption": "<a href=\"https://youtu.be/PRhR__UogTU\" target=\"_blank\">THE COVER 54</a>"
       },
       "start_date": {
         "year": "2023",
@@ -1689,7 +1887,8 @@
     },
     {
       "media": {
-        "url": "https://twitter.com/ASU_virtual/status/1646836542441426944"
+        "url": "https://pbs.twimg.com/media/Ftq9DAwaAAAj9JB?format=jpg&name=orig",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1646836542441426944\" target=\"_blank\">Twitter address</a>"
       },
       "start_date": {
         "year": "2023",
@@ -1698,13 +1897,28 @@
       },
       "text": {
         "headline": "Youtubeのチャンネル登録者が20万人を突破したよ🎉🎊",
+        "text": "<p>ついに‼️</p><p>Youtubeのチャンネル登録者が20万人を突破したよ🎉🎊</p><br /><p>やったー！✨✨20万人、ひとつの大きな区切り！</p><p>達成できた事に嬉しさと感謝で一杯です✨</p><br /><p>アルバム発売目前でこれは、応援してくれる皆の力を実感せずにはいられないッ…！</p><p>これからも皆との繋がりを大事に、日々の活動がんばります！</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://www.youtube.com/live/rO9xoMG_oXI?feature=share",
+        "caption": "<a href=\"https://www.youtube.com/live/rO9xoMG_oXI?feature=share\" target=\"_blank\">CLEAR ASU #3【メンバーシップ限定】</a>"
+      },
+      "start_date": {
+        "year": "2023",
+        "month": "4",
+        "day": "17"
+      },
+      "text": {
+        "headline": "CLEAR ASU #3",
         "text": "<p></p>"
       }
     },
     {
       "media": {
         "url": "https://youtu.be/niCoiDuI4EI",
-        "caption": "THE ORIGIN"
+        "caption": "<a href=\"https://youtu.be/niCoiDuI4EI\" target=\"_blank\">THE ORIGIN</a>"
       },
       "start_date": {
         "year": "2023",
@@ -1719,7 +1933,7 @@
     {
       "media": {
         "url": "https://youtu.be/ci53K0Wbejo",
-        "caption": "THE ORIGIN"
+        "caption": "<a href=\"https://youtu.be/ci53K0Wbejo\" target=\"_blank\">THE ORIGIN</a>"
       },
       "start_date": {
         "year": "2023",
@@ -1733,7 +1947,8 @@
     },
     {
       "media": {
-        "url": "https://twitter.com/ASU_virtual/status/1654072140159946753"
+        "url": "https://pbs.twimg.com/media/FvRv4WOaIAEgfXy?format=jpg&name=orig",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1654072140159946753\" target=\"_blank\">Twitter address</a>"
       },
       "start_date": {
         "year": "2023",
@@ -1742,13 +1957,13 @@
       },
       "text": {
         "headline": "YouTubeのチャンネル登録者数が21万人を突破いたしました✨",
-        "text": "<p></p>"
+        "text": "<p>祝❗️YouTubeのチャンネル登録者数が21万人を突破いたしました✨</p><br /><p>アルバムに新曲「guilty」、そしてAlbemuth「黑」の活動開始と、アガる展開が続いてこれは、更にアツい‼️☀️</p><br /><p>いつも応援ありがとう！</p><p>これからも「明透」そして「Albemuth」を見守ってくれると嬉しいな💐✨</p><br /><p>そして本日は更にお知らせ💌</p>"
       }
     },
     {
       "media": {
         "url": "https://youtu.be/m0Uh7cTY01Y",
-        "caption": "THE COVER 55"
+        "caption": "<a href=\"https://youtu.be/m0Uh7cTY01Y\" target=\"_blank\">THE COVER 55</a>"
       },
       "start_date": {
         "year": "2023",
@@ -1763,7 +1978,7 @@
     {
       "media": {
         "url": "https://youtu.be/m78ttOkGl8M",
-        "caption": "THE COVER 56"
+        "caption": "<a href=\"https://youtu.be/m78ttOkGl8M\" target=\"_blank\">THE COVER 56</a>"
       },
       "start_date": {
         "year": "2023",
@@ -1778,7 +1993,7 @@
     {
       "media": {
         "url": "https://youtu.be/nSt5-QuTCJM",
-        "caption": "THE COVER 57"
+        "caption": "<a href=\"https://youtu.be/nSt5-QuTCJM\" target=\"_blank\">THE COVER 57</a>"
       },
       "start_date": {
         "year": "2023",
@@ -1792,7 +2007,8 @@
     },
     {
       "media": {
-        "url": "https://twitter.com/ASU_virtual/status/1661323907885056000"
+        "url": "https://pbs.twimg.com/media/Fw4yR9rakAMOmN9?format=jpg&name=orig",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1661323907885056000\" target=\"_blank\">Twitter address</a>"
       },
       "start_date": {
         "year": "2023",
@@ -1801,13 +2017,28 @@
       },
       "text": {
         "headline": "YouTubeチャンネル登録者が22万人を達成しました🎉",
+        "text": "<p>そして配信前に…</p><p>YouTubeチャンネル登録者が22万人を達成しました🎉🎉</p><br/><p>皆ありがとうー！！！</p><p>風邪で最悪〜‥の流れから、最高が舞い降りた！✨</p><p>いつも応援してくれる皆が届けてくれるこの幸せ、いつも噛み締めております。</p><br/><p>今日は配信もあるし！</p><p>是非フリー枠のほうでお祝いに来てﾁｮ-ﾀﾞｲな💐✨</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://www.youtube.com/live/PVTemj9ufD0?feature=share",
+        "caption": "<a href=\"https://www.youtube.com/live/PVTemj9ufD0?feature=share\" target=\"_blank\">CLEAR ASU #4【Free枠】</a> / <a href=\"https://www.youtube.com/live/2cM7bKJ8sZg?feature=share\" target=\"_blank\">CLEAR ASU #4【メンバーシップ限定枠】</a>"
+      },
+      "start_date": {
+        "year": "2023",
+        "month": "5",
+        "day": "24"
+      },
+      "text": {
+        "headline": "CLEAR ASU #4【Free枠】",
         "text": "<p></p>"
       }
     },
     {
       "media": {
         "url": "https://youtu.be/iCkOSxGlags",
-        "caption": "THE COVER 58"
+        "caption": "<a href=\"https://youtu.be/iCkOSxGlags\" target=\"_blank\">THE COVER 58</a>"
       },
       "start_date": {
         "year": "2023",
@@ -1822,7 +2053,7 @@
     {
       "media": {
         "url": "https://youtu.be/muOZywR86vY",
-        "caption": "THE COVER 59"
+        "caption": "<a href=\"https://youtu.be/muOZywR86vY\" target=\"_blank\">THE COVER 59</a>"
       },
       "start_date": {
         "year": "2023",
@@ -1836,7 +2067,8 @@
     },
     {
       "media": {
-        "url": "https://twitter.com/ASU_virtual/status/1670028587423117312"
+        "url": "https://pbs.twimg.com/media/Fy0iJbLaAAAAEvz?format=jpg&name=orig",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1670028587423117312\" target=\"_blank\">Twitter address</a>"
       },
       "start_date": {
         "year": "2023",
@@ -1845,13 +2077,13 @@
       },
       "text": {
         "headline": "「ねむるまち」のカバーが300万再生突破しました！🎉",
-        "text": "<p></p>"
+        "text": "<p>㊗️「ねむるまち」のカバーが300万再生突破しました！🎉</p><br/><p>ヤッタヤッタ！！</p><p>300万…！ちょうど一年前くらいに投稿したカバーなんだけど、すごくて&早くてあんま実感ない。笑</p><br/><p>これも皆の応援のおかげだぁ✨</p><p>これからも沢山たくさん、聴いてね🎧</p><p>よろしくお願いしますー！！</p>"
       }
     },
     {
       "media": {
         "url": "https://youtu.be/KuSqaYSLtJc",
-        "caption": "THE ORIGIN"
+        "caption": "<a href=\"https://youtu.be/KuSqaYSLtJc\" target=\"_blank\">THE ORIGIN</a>"
       },
       "start_date": {
         "year": "2023",
@@ -1866,7 +2098,7 @@
     {
       "media": {
         "url": "https://youtu.be/kG_NtRs0JcA",
-        "caption": "THE COVER 60"
+        "caption": "<a href=\"https://youtu.be/kG_NtRs0JcA\" target=\"_blank\">THE COVER 60</a>"
       },
       "start_date": {
         "year": "2023",
@@ -1880,7 +2112,8 @@
     },
     {
       "media": {
-        "url": "https://twitter.com/ASU_virtual/status/1673276667886747648"
+        "url": "https://pbs.twimg.com/media/FzilJAZaYAE2tsy?format=jpg&name=orig",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1673276667886747648\" target=\"_blank\">Twitter address</a>"
       },
       "start_date": {
         "year": "2023",
@@ -1889,17 +2122,32 @@
       },
       "text": {
         "headline": "YouTubeチャンネル登録者数が23万人を突破してた‼️🎉🎊🎈",
+        "text": "<p>なんと！</p><p>気付けばYouTubeチャンネル登録者数が23万人を突破してた‼️🎉🎊🎈</p><br/><p>この間22万人を達成して「ねむるまち」のカバー300万再生祝ったとおもったらコレ！早くないか⁉️</p><br/><p>しかし、Albemuthの新曲「Black Glow」もリリースして更にこれは、</p><p>追い風が吹いているようでとってもｳﾚｼｲ✨🥳</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://www.youtube.com/live/kaZuT1aNsnQ?feature=share",
+        "caption": "<a href=\"https://www.youtube.com/live/kaZuT1aNsnQ?feature=share\" target=\"_blank\">CLEAR ASU #5【free枠】</a> / <a href=\"https://www.youtube.com/live/1o1bcNn4YCI?feature=share\" target=\"_blank\">CLEAR ASU #5【メンバーシップ限定枠】</a>"
+      },
+      "start_date": {
+        "year": "2023",
+        "month": "6",
+        "day": "28"
+      },
+      "text": {
+        "headline": "CLEAR ASU #5【free枠】",
         "text": "<p></p>"
       }
     },
     {
       "media": {
         "url": "https://youtu.be/EZQW8Zy9XeM",
-        "caption": "THE COVER 61"
+        "caption": "<a href=\"https://youtu.be/EZQW8Zy9XeM\" target=\"_blank\">THE COVER 61</a>"
       },
       "start_date": {
         "year": "2023",
-        "month": "1",
+        "month": "7",
         "day": "15"
       },
       "text": {
@@ -1910,7 +2158,7 @@
     {
       "media": {
         "url": "https://youtu.be/lG1XZ9268sQ",
-        "caption": "THE COVER 62"
+        "caption": "<a href=\"https://youtu.be/lG1XZ9268sQ\" target=\"_blank\">THE COVER 62</a>"
       },
       "start_date": {
         "year": "2023",
@@ -1924,7 +2172,8 @@
     },
     {
       "media": {
-        "url": "https://twitter.com/ASU_virtual/status/1681633381627625473"
+        "url": "https://pbs.twimg.com/media/F1ZanZzacAILYcr?format=jpg&name=orig",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1681633381627625473\" target=\"_blank\">Twitter address</a>"
       },
       "start_date": {
         "year": "2023",
@@ -1933,13 +2182,13 @@
       },
       "text": {
         "headline": "YouTubeチャンネル登録者数が24万人を突破しました🎉",
-        "text": "<p></p>"
+        "text": "<p>祝！YouTubeチャンネル登録者数が24万人を突破しました🎉🎉</p><br/><p>日々の暑さには参ってる私ですが…</p><p>みんなからのアツい応援は非常にありがたく、バッチリ受け取っております！感謝！！🔥</p><br/><p>8月にむけてより士気(！？)を高めておりますので、皆にこの熱をぶつけられるよう、頑張って参ります！</p><br/><p>そして！💌</p>"
       }
     },
     {
       "media": {
         "url": "https://youtu.be/RwgdbtrJLcY",
-        "caption": "THE COVER 63"
+        "caption": "<a href=\"https://youtu.be/RwgdbtrJLcY\" target=\"_blank\">THE COVER 63</a>"
       },
       "start_date": {
         "year": "2023",
@@ -1954,7 +2203,7 @@
     {
       "media": {
         "url": "https://youtu.be/E-MCUJeI_Lk",
-        "caption": "THE COVER 64"
+        "caption": "<a href=\"https://youtu.be/E-MCUJeI_Lk\" target=\"_blank\">THE COVER 64</a>"
       },
       "start_date": {
         "year": "2023",
@@ -1968,7 +2217,8 @@
     },
     {
       "media": {
-        "url": "https://twitter.com/ASU_virtual/status/1684870995038064640"
+        "url": "https://pbs.twimg.com/media/F2HdPSpbYAEKGLl?format=jpg&name=orig",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1684870995038064640\" target=\"_blank\">Twitter address</a>"
       },
       "start_date": {
         "year": "2023",
@@ -1977,13 +2227,13 @@
       },
       "text": {
         "headline": "Twitterのフォロワー数が5万人突破したよー！！🎉🎉",
-        "text": "<p></p>"
+        "text": "<p>やったー！！</p><p>Twitterのフォロワー数が5万人突破したよー！！🎉🎉</p><br/><p>いつも投稿するたびリプやいいねしてくれて本当にありがとう！</p><p>みんなと繋がってることを感じられるこの場所が本当に大好き。</p><br/><p>down中だけど、昨日のカバーへの感想もたくさんありがとうね🌷</p><p>これからも一緒に、絆を深めていこー💫</p>"
       }
     },
     {
       "media": {
         "url": "https://youtu.be/t-CwGTBJsB8",
-        "caption": "THE COVER 65"
+        "caption": "<a href=\"https://youtu.be/t-CwGTBJsB8\" target=\"_blank\">THE COVER 65</a>"
       },
       "start_date": {
         "year": "2023",
@@ -1997,7 +2247,8 @@
     },
     {
       "media": {
-        "url": "https://twitter.com/ASU_virtual/status/1688511897971331072"
+        "url": "https://pbs.twimg.com/media/F27Mnv1a8AA__vE?format=jpg&name=orig",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1688511897971331072\" target=\"_blank\">Twitter address</a>"
       },
       "start_date": {
         "year": "2023",
@@ -2006,7 +2257,112 @@
       },
       "text": {
         "headline": "YouTubeチャンネル登録者25万人突破ー！！！🎉🎉🎉",
+        "text": "<p>YouTubeチャンネル登録者25万人突破ー！！！🎉🎉🎉</p><br/><p>達成速度が速くなっているような！？</p><p>これが夏休みパワー？！🌻</p><p>何はともあれ皆いつも応援ありがとう！！</p><br/><p>8月は私の月ということで非常に盛りだくさんのお知らせや企画が控えております💌</p><br/><p>速報楽しみに待っててね！</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://youtu.be/NKs4Uil_dVI",
+        "caption": "<a href=\"https://youtu.be/NKs4Uil_dVI\" target=\"_blank\">THE COVER 66</a>"
+      },
+      "start_date": {
+        "year": "2023",
+        "month": "8",
+        "day": "11"
+      },
+      "text": {
+        "headline": "ANTIFRAGILE - LE SSERAFIM covered by 明透",
+        "text": "<p>歌詞に惚れました。</p><p>私は私の道をいく！！</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://pbs.twimg.com/media/F3pJi2TaMAItmxJ?format=jpg&name=orig",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1691745614231388547\" target=\"_blank\">Twitter address</a>"
+      },
+      "start_date": {
+        "year": "2023",
+        "month": "8",
+        "day": "16"
+      },
+      "text": {
+        "headline": "存流・明透 TWO-MAN LIVE「Albemuth」がついに待望のBlu-rayに！💫",
+        "text": "<p><a href=\"https://findmestore.thinkr.jp/products/5sr-000-0037\" target=\"_blank\">link</a></p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://pbs.twimg.com/media/F3pVS1QawAAuG82?format=png&name=orig",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1691760462260531526\" target=\"_blank\">Twitter address</a>"
+      },
+      "start_date": {
+        "year": "2023",
+        "month": "8",
+        "day": "16"
+      },
+      "text": {
+        "headline": "LINEスタンプもついにリリースされたよー",
+        "text": "<p><a href=\"https://store.line.me/stickershop/product/23957382/ja\" target=\"_blank\">link</a></p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://youtu.be/g6W_tBiJO_E",
+        "caption": "<a href=\"https://youtu.be/g6W_tBiJO_E\" target=\"_blank\">Albemuth  - 星月夜の調べ</a>"
+      },
+      "start_date": {
+        "year": "2023",
+        "month": "8",
+        "day": "16"
+      },
+      "text": {
+        "headline": "Albemuth  - 星月夜の調べ",
         "text": "<p></p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://youtu.be/CG9v8jcPHy4",
+        "caption": "<a href=\"https://youtu.be/CG9v8jcPHy4\" target=\"_blank\">Albemuth  - Underdrain</a>"
+      },
+      "start_date": {
+        "year": "2023",
+        "month": "8",
+        "day": "16"
+      },
+      "text": {
+        "headline": "Albemuth  - Underdrain",
+        "text": "<p></p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://pbs.twimg.com/media/F3zusWSboAE2XxK?format=jpg&name=orig",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1692490221328515356\" target=\"_blank\">Twitter address</a>"
+      },
+      "start_date": {
+        "year": "2023",
+        "month": "8",
+        "day": "18"
+      },
+      "text": {
+        "headline": "YouTubeチャンネル登録者数が26万人突破してたんダガー！🎉🎉🎉",
+        "text": "<p>どわー！お祝い画像つけわすれてた！</p><br/><p>ホイッ！ソイッ！！🎉🎉🎉🎉🎉🎉</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://pbs.twimg.com/media/F4Ik41ya0AAGcvG?format=jpg&name=orig",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1693957434010923273\" target=\"_blank\">Twitter address</a>"
+      },
+      "start_date": {
+        "year": "2023",
+        "month": "8",
+        "day": "23"
+      },
+      "text": {
+        "headline": "初めてのゲーム実況！",
+        "text": "<p>初めてのゲーム実況をプレイしたいと思います</p>"
       }
     }
   ]

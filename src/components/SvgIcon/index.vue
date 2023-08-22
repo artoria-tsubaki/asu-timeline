@@ -29,6 +29,7 @@ const symbolId = computed(() => `#${props.prefix}-${props.name}`);
 
 <style lang="scss">
 .svg-icon {
+	outline: none;
 	&:hover {
 		cursor: pointer;
 	}
