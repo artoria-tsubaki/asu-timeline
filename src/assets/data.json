@@ -1064,7 +1064,8 @@
     },
     {
       "media": {
-        "url": "https://www.youtube.com/live/3CqOh-uWCVs"
+        "url": "https://pbs.twimg.com/media/FbewLjIakAEY4c2?format=jpg&name=orig",
+        "caption": "<a href=\"https://www.youtube.com/live/3CqOh-uWCVs\" target=\"_blank\">あるあす通信 Vol.1</a>"
       },
       "start_date": {
         "year": "2022",
@@ -1198,7 +1199,7 @@
     },
     {
       "media": {
-        "url": "https://youtu.be/zre8JaUSm4I",
+        "url": "https://pbs.twimg.com/media/FfpNT-BagAA7P4J?format=jpg&name=orig",
         "caption": "<a href=\"https://youtu.be/zre8JaUSm4I\" target=\"_blank\">あるあす通信vol.2</a>"
       },
       "start_date": {
@@ -1318,8 +1319,8 @@
     },
     {
       "media": {
-        "url": "https://youtu.be/lq_LskErJfE",
-        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1594281901396840448\" target=\"_blank\">Twitter address</a>"
+        "url": "https://pbs.twimg.com/media/FfptpdYVIAE9n__?format=jpg&name=orig",
+        "caption": "<a href=\"https://youtu.be/lq_LskErJfE\" target=\"_blank\">あるあす通信vol.3 スペシャル</a>"
       },
       "start_date": {
         "year": "2022",
@@ -1453,7 +1454,7 @@
     },
     {
       "media": {
-        "url": "https://youtu.be/PEKeaHRD4Dc",
+        "url": "https://pbs.twimg.com/media/FkQaibsVsAAvyM-?format=jpg&name=orig",
         "caption": "<a href=\"https://youtu.be/PEKeaHRD4Dc\" target=\"_blank\">あるあす通信vol.4</a>"
       },
       "start_date": {
@@ -1513,7 +1514,7 @@
     },
     {
       "media": {
-        "url": "https://youtu.be/tAz3dHX5QWw",
+        "url": "https://pbs.twimg.com/media/FmQovm_akAAorvq?format=jpg&name=orig",
         "caption": "<a href=\"https://youtu.be/tAz3dHX5QWw\" target=\"_blank\">あるあす通信vol.5</a>"
       },
       "start_date": {
@@ -1543,7 +1544,7 @@
     },
     {
       "media": {
-        "url": "https://youtu.be/0lfDdziSdnw",
+        "url": "https://pbs.twimg.com/media/Fmg9m3ZaAAUFrSq?format=jpg&name=orig",
         "caption": "<a href=\"https://youtu.be/0lfDdziSdnw\" target=\"_blank\">「CLEAR ASU」vol.1</a>"
       },
       "start_date": {
@@ -1648,7 +1649,7 @@
     },
     {
       "media": {
-        "url": "https://www.youtube.com/live/J4Ol0giHFKU?feature=share",
+        "url": "https://pbs.twimg.com/media/Fow5ke4aEAA0-mV?format=jpg&name=orig",
         "caption": "<a href=\"https://www.youtube.com/live/J4Ol0giHFKU?feature=share\" target=\"_blank\">CLEAR ASU Vol.2</a>"
       },
       "start_date": {
@@ -1678,7 +1679,7 @@
     },
     {
       "media": {
-        "url": "https://youtube.com/live/9Ye3wGa9",
+        "url": "https://pbs.twimg.com/media/FpAF-OdaYAAbrBo?format=jpg&name=orig",
         "caption": "<a href=\"https://youtube.com/live/9Ye3wGa9\" target=\"_blank\">あるあす通信  Vol.6</a>"
       },
       "start_date": {
@@ -1812,7 +1813,7 @@
     },
     {
       "media": {
-        "url": "https://www.youtube.com/live/cBFeL5oYTI8?feature=share",
+        "url": "https://pbs.twimg.com/media/FrLNYy6aAAA32lq?format=jpg&name=orig",
         "caption": "<a href=\"https://www.youtube.com/live/cBFeL5oYTI8?feature=share\" target=\"_blank\">CLEAR ASU #2【メンバーシップ限定】</a>"
       },
       "start_date": {
@@ -1827,7 +1828,7 @@
     },
     {
       "media": {
-        "url": "https://www.youtube.com/live/bsg8-XPPbc4?feature=share",
+        "url": "https://pbs.twimg.com/media/FrktTZiaMAEac9r?format=jpg&name=orig",
         "caption": "<a href=\"https://www.youtube.com/live/bsg8-XPPbc4?feature=share\" target=\"_blank\">あるあす通信 Vol.7</a>"
       },
       "start_date": {
@@ -1947,7 +1948,7 @@
     },
     {
       "media": {
-        "url": "https://www.youtube.com/live/rO9xoMG_oXI?feature=share",
+        "url": "https://pbs.twimg.com/media/FtlssC2agAADoB1?format=jpg&name=orig",
         "caption": "<a href=\"https://www.youtube.com/live/rO9xoMG_oXI?feature=share\" target=\"_blank\">CLEAR ASU #3【メンバーシップ限定】</a>"
       },
       "start_date": {
@@ -1972,6 +1973,21 @@
       },
       "text": {
         "headline": "明透 - リンカーネイション",
+        "text": "<p></p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://pbs.twimg.com/media/FuonKvvaUAEsVv7?format=jpg&name=large",
+        "caption": "<a href=\"https://www.youtube.com/watch?v=SEW3yH51isM\" target=\"_blank\">あるあす通信 Vol.8</a>"
+      },
+      "start_date": {
+        "year": "2023",
+        "month": "4",
+        "day": "26"
+      },
+      "text": {
+        "headline": "あるあす通信 Vol.8",
         "text": "<p></p>"
       }
     },
@@ -2067,7 +2083,7 @@
     },
     {
       "media": {
-        "url": "https://www.youtube.com/live/PVTemj9ufD0?feature=share",
+        "url": "https://pbs.twimg.com/media/FwaHpe8akAE38kf?format=jpg&name=orig",
         "caption": "<a href=\"https://www.youtube.com/live/PVTemj9ufD0?feature=share\" target=\"_blank\">CLEAR ASU #4【Free枠】</a> / <a href=\"https://www.youtube.com/live/2cM7bKJ8sZg?feature=share\" target=\"_blank\">CLEAR ASU #4【メンバーシップ限定枠】</a>"
       },
       "start_date": {
@@ -2076,7 +2092,7 @@
         "day": "24"
       },
       "text": {
-        "headline": "CLEAR ASU #4【Free枠】",
+        "headline": "CLEAR ASU #4",
         "text": "<p></p>"
       }
     },
@@ -2172,7 +2188,7 @@
     },
     {
       "media": {
-        "url": "https://www.youtube.com/live/kaZuT1aNsnQ?feature=share",
+        "url": "https://pbs.twimg.com/media/Fzij34UaEAA6-5a?format=png&name=orig",
         "caption": "<a href=\"https://www.youtube.com/live/kaZuT1aNsnQ?feature=share\" target=\"_blank\">CLEAR ASU #5【free枠】</a> / <a href=\"https://www.youtube.com/live/1o1bcNn4YCI?feature=share\" target=\"_blank\">CLEAR ASU #5【メンバーシップ限定枠】</a>"
       },
       "start_date": {
@@ -2181,7 +2197,7 @@
         "day": "28"
       },
       "text": {
-        "headline": "CLEAR ASU #5【free枠】",
+        "headline": "CLEAR ASU #5",
         "text": "<p></p>"
       }
     },
@@ -2397,7 +2413,7 @@
     },
     {
       "media": {
-        "url": "https://www.youtube.com/live/s9G0-0nk5ew?feature=share",
+        "url": "https://pbs.twimg.com/media/F4Ik41ya0AAGcvG?format=jpg&name=orig",
         "caption": "<a href=\"https://www.youtube.com/live/s9G0-0nk5ew?feature=share\" target=\"_blank\">CLEAR ASU #6 初・ゲーム実況！【Free枠】</a> / <a href=\"https://www.youtube.com/live/aErbgyFx16Q?feature=share\" target=\"_blank\">CLEAR ASU #6【メンバーシップ限定枠】</a>"
       },
       "start_date": {
@@ -2406,7 +2422,52 @@
         "day": "23"
       },
       "text": {
-        "headline": "CLEAR ASU #6【Free枠】",
+        "headline": "CLEAR ASU #6 初・ゲーム実況",
+        "text": "<p></p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://youtu.be/Wj9VQQCOM8s",
+        "caption": "<a href=\"https://youtu.be/Wj9VQQCOM8s\" target=\"_blank\">THE COVER 67</a>"
+      },
+      "start_date": {
+        "year": "2023",
+        "month": "8",
+        "day": "24"
+      },
+      "text": {
+        "headline": "会いたいわ - iri covered by 明透",
+        "text": "<p>離れてる時の「会いたい」って言葉、なんであんなに嬉しくなっちゃうんだろ</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://pbs.twimg.com/media/F4SlLs8bwAAuubh?format=jpg&name=orig",
+        "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1694660984550613243\" target=\"_blank\">YouTube Music Weekend 8/25（金）14:20-  </a>"
+      },
+      "start_date": {
+        "year": "2023",
+        "month": "8",
+        "day": "25"
+      },
+      "text": {
+        "headline": "「YouTube Music Weekend 7.0 supported by docomo ｣  開催だ🎉",
+        "text": "<p></p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://pbs.twimg.com/media/F3KResEbQAA1fKU?format=jpg&name=orig",
+        "caption": "<a href=\"https://www.youtube.com/watch?v=i12RmdiIzM4\" target=\"_blank\">サンライトLIVE２</a>"
+      },
+      "start_date": {
+        "year": "2023",
+        "month": "8",
+        "day": "26"
+      },
+      "text": {
+        "headline": "サンライトLIVE２",
         "text": "<p></p>"
       }
     }
