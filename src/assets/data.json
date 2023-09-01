@@ -2474,7 +2474,7 @@
     {
       "media": {
         "url": "https://pbs.twimg.com/media/F3KResEbQAA1fKU?format=jpg&name=orig",
-        "caption": "<a href=\"https://www.youtube.com/live/i12RmdiIzM4?si=XWjxSkP0je4S8Pby\" target=\"_blank\">サンライトLIVE２</a>"
+        "caption": "<a href=\"https://www.youtube.com/watch?v=i12RmdiIzM4\" target=\"_blank\">サンライトLIVE２</a>"
       },
       "start_date": {
         "year": "2023",
@@ -2483,6 +2483,36 @@
       },
       "text": {
         "headline": "サンライトLIVE２",
+        "text": "<p></p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://youtu.be/LUY_Iqbe9R0",
+        "caption": "<a href=\"https://youtu.be/LUY_Iqbe9R0\" target=\"_blank\">Albemuth - tuberose【オリジナルMV】</a>"
+      },
+      "start_date": {
+        "year": "2023",
+        "month": "8",
+        "day": "30"
+      },
+      "text": {
+        "headline": "Albemuth - tuberose【オリジナルMV】",
+        "text": "<p></p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://youtu.be/HZGUDr4otBw",
+        "caption": "<a href=\"https://youtu.be/HZGUDr4otBw\" target=\"_blank\">明透 - アンメルト・アンブレラ【オリジナルMV】</a>"
+      },
+      "start_date": {
+        "year": "2023",
+        "month": "8",
+        "day": "30"
+      },
+      "text": {
+        "headline": "明透 - アンメルト・アンブレラ【オリジナルMV】",
         "text": "<p></p>"
       }
     }
