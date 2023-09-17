@@ -8,6 +8,7 @@
     "build": "vite build",
     "preview": "vite preview"
   },
+  "keywords": ["明透", "asu", "timeline", "タイムライン", "活動" , "activities"],
   "dependencies": {
     "@element-plus/icons-vue": "^2.1.0",
     "@knight-lab/timelinejs": "^3.9.3",
