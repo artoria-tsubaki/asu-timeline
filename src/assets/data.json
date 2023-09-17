@@ -2353,6 +2353,21 @@
     },
     {
       "media": {
+        "url": "https://pbs.twimg.com/media/F3KX7jfbMAAXwtk?format=jpg&name=orig",
+        "caption": "<a href=\"https://youtube.com/live/GUTDMaxYfUU\" target=\"_blank\">夏休みSPあるあす通信</a>"
+      },
+      "start_date": {
+        "year": "2023",
+        "month": "8",
+        "day": "13"
+      },
+      "text": {
+        "headline": "あるあす通信 vol.9",
+        "text": "<p></p>"
+      }
+    },
+    {
+      "media": {
         "url": "https://pbs.twimg.com/media/F3pVS1QawAAuG82?format=png&name=orig",
         "caption": "<a href=\"https://twitter.com/ASU_virtual/status/1691760462260531526\" target=\"_blank\">Twitter address</a>"
       },
@@ -2543,6 +2558,21 @@
       },
       "text": {
         "headline": "大丈夫 - RADWIMPS covered by 明透",
+        "text": "<p></p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://pbs.twimg.com/media/F5qHqOMaYAANuPG?format=jpg&name=orig",
+        "caption": "<a href=\"https://youtube.com/live/yIfCRTxxaxA\" target=\"_blank\">あるあす通信 vol.10</a>"
+      },
+      "start_date": {
+        "year": "2023",
+        "month": "9",
+        "day": "10"
+      },
+      "text": {
+        "headline": "あるあす通信 vol.10",
         "text": "<p></p>"
       }
     }
