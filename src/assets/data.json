@@ -2785,6 +2785,51 @@
         "headline": "Albemuth1周年 配信",
         "text": "<p></p>"
       }
+    },
+    {
+      "media": {
+        "url": "https://pbs.twimg.com/media/F_cowEGaIAAhYxi?format=jpg&name=orig",
+        "caption": "<a href=\"https://www.youtube.com/live/ldfY31Qef3I?si=NkmvxoxS4UG8Z56P\" target=\"_blank\">CLEAR ASU #9</a>"
+      },
+      "start_date": {
+        "year": "2023",
+        "month": "11",
+        "day": "21"
+      },
+      "text": {
+        "headline": "CLEAR ASU #9",
+        "text": "<p></p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://youtu.be/A9B3VzC1vbU",
+        "caption": "<a href=\"https://youtu.be/A9B3VzC1vbU\" target=\"_blank\">Albemuth - cage 【オリジナルMV】</a>"
+      },
+      "start_date": {
+        "year": "2023",
+        "month": "11",
+        "day": "22"
+      },
+      "text": {
+        "headline": "Albemuth - cage 【オリジナルMV】",
+        "text": "<p></p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://youtu.be/SKrk4YSiub4?si=ovFrrgDO1OXYyto0",
+        "caption": "<a href=\"https://youtu.be/SKrk4YSiub4?si=ovFrrgDO1OXYyto0\" target=\"_blank\">Albemuth - 箱庭 【オリジナルMV】</a>"
+      },
+      "start_date": {
+        "year": "2023",
+        "month": "11",
+        "day": "22"
+      },
+      "text": {
+        "headline": "Albemuth - 箱庭 【オリジナルMV】",
+        "text": "<p></p>"
+      }
     }
   ]
 }
