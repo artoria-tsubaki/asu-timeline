@@ -1,0 +1,9 @@
+<IfModule mod_rewrite.c>
+
+RewriteEngine On
+
+RewriteCond %{HTTP_HOST} ^asu.ink$ [NC]
+
+RewriteRule ^(.*)$ https://www.asu.ink/$1 [R=301,L]
+
+</IfModule>
