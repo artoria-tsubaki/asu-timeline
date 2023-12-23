@@ -1,7 +1,7 @@
 {
   "redirects": [
     {
-      "source": "/(.*)",
+      "source": "https://asu.ink",
       "destination": "https://www.asu.ink",
       "statusCode": 301
     }
